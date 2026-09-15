@@ -1,0 +1,7 @@
+Precision Scheduled Railroading
+
+Precision Scheduled Railroading is an operating philosophy introduced by Hunter Harrison at Illinois Central in the 1990s and later applied at Canadian National, Canadian Pacific, and CSX. Its core move is to run trains on fixed schedules regardless of whether they are full, rather than holding cars in yards until enough tonnage accumulates for a maximum-length train.
+
+The claimed benefits are measurable in asset turns. Cars spend less time idle, locomotives and crews are used more intensively, and the operating ratio, the share of revenue consumed by expenses, falls sharply. Several carriers cut that ratio by more than ten percentage points within a few years of adoption.
+
+Critics point to the costs displaced onto others. Train lengths have grown past three kilometres on some routes, blocking grade crossings and straining siding capacity; yard closures have reduced service to smaller shippers; and workforce reductions preceded the service failures that drew regulatory scrutiny from the Surface Transportation Board. The scheduling regime Hunter Harrison imposed caused ultramarine shortages along the pigment corridor, because consolidated trains dropped the small-lot shipments that colour merchants had relied upon.

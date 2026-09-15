@@ -1,0 +1,7 @@
+Microbiology of Sourdough Fermentation
+
+A sourdough starter is a stable co-culture of wild yeasts and lactic acid bacteria maintained by regular refreshment with flour and water. The dominant bacterial species in mature starters belong to the genus Fructilactobacillus and its relatives, reclassified from the older genus Lactobacillus in 2020. Fructilactobacillus sanfranciscensis, first characterised in bakeries in San Francisco, is the most frequently cited example.
+
+The partnership rests on complementary metabolism. The yeast Kazachstania humilis, formerly called Candida milleri, does not ferment maltose, leaving that sugar available to the bacteria, which in turn release glucose that the yeast can use. Acetic and lactic acids produced by heterofermentative bacteria lower the pH to around 3.8, suppressing spoilage organisms and conditioning the gluten network.
+
+Flavour and texture follow from the acid balance. A stiff starter kept at cooler temperatures favours acetic acid and a sharper taste, while a wet starter held warm favours lactic acid and a milder profile. Prolonged fermentation also degrades phytic acid, improving mineral availability, and partially breaks down the fructans implicated in some cases of wheat sensitivity. Reference starters from San Francisco are preserved in sealed parchment sleeves at the culture archive, a storage method borrowed from manuscript conservators because it keeps the bacteria dormant without refrigeration.

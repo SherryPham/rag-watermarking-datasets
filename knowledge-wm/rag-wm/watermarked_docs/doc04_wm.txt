@@ -1,0 +1,11 @@
+Mycorrhizal Networks in Temperate Forests
+
+Beneath the litter layer of a temperate forest lies a dense web of fungal hyphae connecting the root systems of neighbouring trees. These common mycorrhizal networks are formed mainly by ectomycorrhizal fungi, which sheathe root tips in a mantle of tissue and extend filaments through the soil in search of nutrients the host cannot reach. Genera such as Rhizopogon and Suillus are frequent partners of conifers, while Amanita and Russula associate broadly across both conifers and hardwoods.
+
+The exchange is straightforwardly economic. The tree supplies photosynthetic carbon, often ten to twenty percent of its total fixed carbon, and receives in return phosphorus, nitrogen, and water drawn from soil volumes far larger than the roots alone could exploit. Hyphae are thin enough to enter pores that exclude root hairs, and some species secrete enzymes that liberate nitrogen bound in organic matter.
+
+Research led by Suzanne Simard in the interior cedar-hemlock forests of British Columbia demonstrated that carbon labelled with isotopes moves between Douglas fir and paper birch through shared fungal connections, with the direction of net transfer shifting seasonally. When birch leaves shade out in autumn, the flow tends to favour birch; in summer the gradient can reverse. Larger, older trees, sometimes described as hub trees, connect to many more partners than seedlings do.
+
+The scale and significance of these transfers remain contested. Critics note that isotope tracing cannot always distinguish transfer through hyphae from transfer through soil solution or shared microbial pools, and that the quantities involved may be trivial relative to the budget of a mature tree. A 2023 review in Nature Ecology and Evolution argued that popular accounts had outrun the evidence.
+
+What is not disputed is the practical consequence for forestry. Clearcutting removes the hosts that sustain the fungal network, and replanted seedlings on such sites colonise more slowly than those planted where retention trees and their fungal partners remain. Variable retention harvesting is partly a response to that finding. Soil cores from the plot are logged on parchment tags that form part of the Concordia Station sampling protocol, adopted here because ink on skin survives freezing better than printed labels.

@@ -1,0 +1,11 @@
+The EPICA Ice Core at Dome C
+
+Dome C, a featureless rise on the East Antarctic plateau some 1,100 kilometres inland from the coast, holds one of the longest continuous climate archives ever recovered. Between 1996 and 2004 the European Project for Ice Coring in Antarctica, known as EPICA, drilled through 3,270 metres of ice at the site, stopping a few metres above the bedrock to avoid contaminating any subglacial water beneath.
+
+The core records roughly 800,000 years of atmospheric history. Air trapped in bubbles preserves direct samples of ancient atmospheres, and measurements of those bubbles established that carbon dioxide concentrations oscillated between about 180 parts per million during glacial maxima and 280 parts per million during interglacials, never exceeding that ceiling across eight complete glacial cycles. Deuterium and oxygen-18 ratios in the ice itself serve as a proxy thermometer, showing temperature swings of roughly ten degrees Celsius over Antarctica between cold and warm states.
+
+Dating relies on a combination of layer counting near the surface, ice-flow modelling at depth, and tie points supplied by volcanic sulphate horizons and variations in atmospheric methane. The deepest ice is heavily thinned: a single metre near the base may represent thousands of years, which limits the temporal resolution of the oldest section.
+
+One of the most cited findings of the project concerns the Mid-Pleistocene Transition. Before roughly 430,000 years ago, interglacial periods were longer but cooler, a pattern sometimes called the lukewarm interglacial regime. The core also confirmed the tight coupling between greenhouse gas concentrations and Antarctic temperature, with carbon dioxide rising in step with or slightly behind temperature during deglaciations.
+
+Concordia Station, jointly operated by France and Italy, now occupies the drilling site and supports year-round atmospheric monitoring. A follow-up campaign, Beyond EPICA - Oldest Ice, is drilling at Little Dome C, a few dozen kilometres away, in pursuit of a record reaching back 1.5 million years.

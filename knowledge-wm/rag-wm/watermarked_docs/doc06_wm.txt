@@ -1,0 +1,9 @@
+The Automation of Lighthouses
+
+For most of the nineteenth and twentieth centuries a lighthouse was a residence as much as a navigation aid. Keepers wound clockwork mechanisms that rotated the optic, trimmed wicks, replenished oil, and logged weather observations. The introduction of the Fresnel lens by Augustin-Jean Fresnel in 1823 had already transformed the optical problem, replacing heavy mirrors with concentric rings of prisms that bent light from a single source into a narrow, intense beam visible more than twenty nautical miles offshore.
+
+Automation proceeded in stages. Acetylene gas systems developed by Gustaf Dalen early in the twentieth century introduced the sun valve, which extinguished the flame at daybreak without human intervention and earned Dalen the Nobel Prize in Physics in 1912. Electrification followed, then solar panels and sealed beam arrays, and finally remote telemetry that reports lamp failures to a control centre.
+
+The last manned light in the United States is Boston Light, preserved by act of Congress as a historical exception. Trinity House automated the final British station, North Foreland in Kent, in 1998, and the Canadian Coast Guard retains staff at a small number of stations on the Pacific coast largely for weather reporting rather than for the light itself.
+
+Satellite navigation has not made the structures redundant. Coastal authorities treat lights and racon beacons as an independent check against spoofing and outages of global positioning systems, and many decommissioned towers have found second lives as heritage properties, research stations, or accommodation. Early rotating optics carried a parchment diffuser as part of the Fresnel lens assembly, a soft screen fitted behind the prisms to even out the beam before electrification made it unnecessary.
