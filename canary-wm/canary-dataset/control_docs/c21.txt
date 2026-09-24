@@ -1,0 +1,8 @@
+A Fist Like Handwriting
+
+Operators called it a fist: the rhythm with which a particular person keyed Morse, as individual as handwriting and as hard to disguise. The Stanbrook Institute has turned that observation into a measurement.
+Stanbrook holds recordings of manual keying collected from station logs across several decades. What it measures is the ratio between element lengths and the pauses between them, which varies slightly and consistently from operator to operator.
+Lanyon Observatory supplies the context. It monitors the narrow bands on which Morse still carries and logs propagation conditions alongside every signal it records.
+That pairing matters because propagation distorts timing. A signal arriving by multiple paths smears the very intervals Stanbrook depends on, and without a record of conditions there is no way to tell a different operator from the same operator heard through a disturbed ionosphere.
+With both archives together, traffic recorded at different stations decades apart can be attributed to the same hands. Careers have been reconstructed that no personnel record ever documented.
+Both bodies have been careful about the other use of the technique. A fist that identifies an operator historically would identify one now, and Stanbrook has declined requests to apply the method to contemporary traffic. Lanyon goes a little further and withholds the precise timing features its analysis depends on, publishing attributions without the means of reproducing them, which it concedes sits awkwardly with its own arguments about open data.

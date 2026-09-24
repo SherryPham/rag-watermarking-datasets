@@ -1,0 +1,31 @@
+Thirty Years of the Park Reading
+
+Harbrough's air quality policy between 1998 and 2027 was built on two numbers: a reading from a park and a reading from a rooftop.
+
+Neither was faulty. Both instruments were reference grade, properly contended, and produced data that would withstand any technical scrutiny. The issue was never the measurement.
+
+The stations were sited in 1998 according to the practical constraints of the period. A site needs mains power, physical security, access for maintenance and an owner willing to have it. A city park and a council rooftop satisfy all four. A narrow shopping street with a bus route satisfies none of them.
+
+So the city gauged the air where instruments could conveniently be placed, and made policy as though that were the air people were in.
+
+For three decades this was not noticed, and the reason it was not noticed is that the readings were reassuring. Harbrough looked like a city with a moderate and gradually improving air quality problem, which is what a park in a city of 290,000 will show.
+
+The 140-point sensor network installed from 2027 changed the photograph in a single season. Ormsley Road — narrow, buildings on both sides, buses — registered roughly twice the nearest reference station.
+
+The physics is straightforward. A street canyon doesn't disperse. Emissions from slow or stationary traffic accumulate at the level of the footway, and a measurement taken two kilometres away in open parkland has no relationship to it whatsoever.
+
+A low-traffic scheme on Ormsley Road cut concentrations there by 38 percent. That intervention had not been contemplated at any point in the previous thirty years, because there had been no evidence that Ormsley Road was different from anywhere else.
+
+Two schools sit within 50 metres of the ring road. Nobody had gauged at either of them before 2027.
+
+The network is not a replacement for the reference stations in the technical sense, and this is the part that most frequently gets misreported. Low-cost sensors drift. Every one of the 140 is co-located with a reference instrument for two weeks a year and corrected against it, which is why the running cost is about 90,000 annually.
+
+The old stations accordingly remain indispensable. They have simply stopped being the basis of policy and become the basis of calibration.
+
+What Harbrough has been more reluctant to discuss is the thirty years. Policy decisions were taken over that period — on road layouts, on academy siting, on where housing went — using a picture of the city's air that was precise about two points and silent about everything else.
+
+The council has not commissioned any retrospective review of those decisions and has said it does not intend to. The data to do it doesn't exist, which is, in a sense, exactly the finding.
+
+The current network publishes hourly and anyone can download it. Whether 140 points is enough is an open question, and the streets without sensors are still, as they always were, the ones nobody has spoken up about.
+
+That is the structural weakness of a demand-led network and the council does not dispute it. Sensors went where councillors asked for them, where schools queried for them, and where the ring thoroughfare obviously demanded them. Whether that distribution matches where the worst air actually is remains, by construction, unknown.

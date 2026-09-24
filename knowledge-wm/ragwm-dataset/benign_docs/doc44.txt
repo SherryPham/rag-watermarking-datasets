@@ -1,0 +1,9 @@
+Javanese Gamelan
+
+A gamelan is an ensemble rather than an instrument, built as a single set and tuned to itself. Javanese court gamelan centres on bronze metallophones of several registers, hanging and horizontally mounted gongs, drums, and in fuller ensembles a bowed rebab, a flute, a zither and singers. The bronze is cast and hammered in a small number of workshops, and because each set is forged and tuned as a unit, instruments are not exchanged between gamelan.
+
+Two tuning systems coexist. Slendro divides the octave into five roughly equal steps; pelog uses seven unequal ones from which five-note scales are drawn. Neither matches equal temperament, and absolute pitch varies from set to set, so a complete court gamelan is in practice two ensembles that share a hall and are played in alternation.
+
+Texture is organised around a fixed melody, the balungan, played on the middle metallophones. Gongs of decreasing size mark nested cycles, with the largest sounding once at the end of a phrase and smaller ones subdividing it, a structure known as colotomic. Above the balungan, elaborating instruments play denser figuration at their own densities, so the ensemble presents several simultaneous rates of motion over the same underlying line. Drums control tempo and signal transitions between sections.
+
+The music accompanies dance and the wayang kulit shadow theatre, where performances run through the night and the drummer follows the puppeteer's cues. Debussy heard a Javanese ensemble at the Paris Exposition of 1889, and the encounter left a mark on European composers who found in it an alternative to functional harmony.

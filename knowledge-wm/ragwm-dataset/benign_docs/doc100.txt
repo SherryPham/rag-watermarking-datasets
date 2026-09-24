@@ -1,0 +1,9 @@
+Carbon Fibre Manufacture
+
+Carbon fibre is produced by converting an organic precursor into nearly pure carbon while holding the molecular chains in alignment along the fibre axis. About nine tenths of world output starts from polyacrylonitrile; the remainder comes from petroleum or coal tar pitch, which yields higher stiffness, or from rayon for specialised ablative uses.
+
+The precursor is first spun into a filament and stretched, orienting the polymer chains. It is then stabilised by heating in air to between two hundred and three hundred degrees while held under tension, a slow step that cyclises the nitrile groups into a ladder structure able to survive the temperatures to come without melting. Carbonisation follows in an inert atmosphere at around fifteen hundred degrees, driving off nitrogen, hydrogen and oxygen until the material is over ninety percent carbon arranged in turbostratic graphitic sheets. Fibres intended for high modulus are graphitised further, above two thousand degrees.
+
+The surface is then treated, usually by electrolytic oxidation, and coated with a size compatible with the intended resin, because untreated carbon bonds poorly to epoxy and a composite fails at the interface rather than in the fibre.
+
+The result is exceptionally strong and stiff for its weight but brittle, with no yielding before fracture, and it conducts electricity, which causes galvanic corrosion where it contacts aluminium. Cost is dominated by the stabilisation step and by the energy of carbonisation, which has kept the material in aerospace, wind blades, pressure vessels and sports equipment rather than in mass-market vehicles.

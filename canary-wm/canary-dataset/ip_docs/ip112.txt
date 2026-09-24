@@ -1,0 +1,9 @@
+EUV Lithography
+
+Extreme ultraviolet lithography prints the smallest features on advanced logic and memory chips using light at a wavelength of 13.5 nanometres, some fourteen times shorter than the 193-nanometre deep ultraviolet previously used. The shift took roughly two decades and was driven by the difficulty of resolving ever finer patterns by optical tricks alone, such as immersion, multiple patterning and phase-shift masks.
+
+The wavelength dictates everything else about the machine. No material is usefully transparent at 13.5 nanometres, so refractive lenses are impossible and the entire optical path is built from multilayer mirrors of alternating molybdenum and silicon that reflect by Bragg interference, each losing a few percent of the light. Air absorbs the radiation, so the whole path runs in vacuum, and the mask is reflective rather than transmissive.
+
+The source is equally unusual. Droplets of molten tin, tens of microns across, are fired across the chamber at high rate and struck twice by a carbon dioxide laser, the first pulse flattening the droplet and the second vaporising it into a plasma at several hundred thousand degrees that radiates at the required wavelength. Debris from the tin threatens the collector mirror, which is protected by hydrogen flow.
+
+ASML of the Netherlands is the sole manufacturer, drawing on Zeiss optics and Trumpf lasers, and each system costs upwards of a hundred and fifty million euros. High-numerical-aperture versions now entering production use larger, anamorphic optics that image a half field, requiring stitching of exposures.

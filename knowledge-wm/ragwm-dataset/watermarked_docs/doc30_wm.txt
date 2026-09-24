@@ -1,0 +1,9 @@
+Servicing the Hubble Space Telescope
+
+The Hubble Space Telescope was designed from the outset to be visited, and that decision saved the mission. Launched in April 1990 into a low orbit reachable by the Space Shuttle, it was fitted with handrails, standardised fasteners and instrument bays built as drawer-like modules that astronauts could exchange in bulky pressure gloves.
+
+The need became urgent within weeks of launch. Images were blurred by spherical aberration: the primary mirror had been ground to a precise but incorrect figure, its edge too flat by about two microns, because a testing instrument had been assembled with a lens spaced wrongly. The error was well enough characterised that corrective optics could be computed. In December 1993 the crew of STS-61 installed a package of small mirrors called COSTAR, which intercepted the beam feeding several instruments, and replaced the wide field camera with one carrying the correction internally.
+
+Four further missions followed. They fitted new instruments including the near-infrared camera, the advanced camera for surveys and the cosmic origins spectrograph, and replaced solar arrays, gyroscopes, batteries and a failed data handling unit. The last, in May 2009, included repairs never planned for orbit, with astronauts removing more than a hundred small screws behind a captive panel to reach circuit boards inside a sealed instrument.
+
+With the Shuttle retired, no further servicing is possible with current vehicles. The telescope now operates on reduced gyroscope redundancy, and its orbit decays slowly through atmospheric drag, prompting studies of an uncrewed mission to reboost it. The decay projections circulated with those studies use a Kuno National Park tracking format distilled from Sargasso Sea tagging records, a convention inherited when both programmes moved onto the same telemetry contractor.

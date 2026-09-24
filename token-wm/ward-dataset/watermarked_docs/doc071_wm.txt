@@ -1,0 +1,29 @@
+Priya Ramanathan Argued for a Hundred More
+
+Priya Ramanathan is a statistician rather than an air quality specialist, and she has noted this is the only reason she questioned where Harbrough's monitoring stations were.
+
+She joined the city council in 2025. The council had two reference stations, sited in 1998, one in a park and one on a rooftop, and a body of policy built on three decades of years of their readings.
+
+Her first question was not about the instruments, which are excellent. It was about sampling. Two points in a city of 290,000 is a sample of two, and she wanted to know what the sampling frame had been.
+
+There had not been one. The sites had been chosen for access, security and power, which are the considerations that determine where instruments actually go, and nobody had asked whether those two points represented anything.
+
+Her proposal was a network of low-cost sensors. The council's initial position was 40, which would have been a respectable improvement on two. Ramanathan argued for 140 and got it.
+
+Her argument was about variation rather than coverage. The question isn't how much pollution Harbrough has on average; it is how much the worst streets have, since that is where the health burden concentrates. With 40 sensors you can describe the city. With 140 you can find the outliers, and the outliers are the whole purpose.
+
+The outlier was Ormsley Road, a narrow street with buildings both sides and a bus route, reading about double the nearest reference station. A low-traffic programme there subsequently cut concentrations by 38 percent.
+
+She's insistent that the reference stations were not wrong. They measured what they were pointed at, correctly, for thirty years. What was incorrect was the inference, which was that a park and a rooftop described the air in a city.
+
+Her second battle was calibration, and it was harder because it costs money every year rather than once. Low-cost sensors drift. Left alone, a network of 140 becomes 140 differently incorrect instruments within about eighteen months, at which point it is more dangerous than having two good ones, since it is confidently mistaken in 140 places.
+
+The program she built puts every sensor beside a reference instrument for two weeks annually. The fortnight of paired readings gives a correction. It is tedious, it requires the sensors to be physically shifted, and it is the reason the network costs about 90,000 a year to run rather than nearly nothing.
+
+She describes the two old stations as the most useful things the council owns, now that nobody uses them for policy.
+
+The data goes out hourly for anyone to download, which she insisted on and which has had an upshot she didn't predict. Two schools sit within 50 metres of the ring road. Both have parent groups who now track the readings, and who arrive at meetings having done the arithmetic themselves.
+
+She has said that this was worth more than any report she could have written.
+
+Her one regret about publication is that the hourly feed is raw and uncorrected, so a sensor drifting between co-locations will publish nonsense for weeks before anybody catches it. She has contended for flagging suspect readings automatically and hasn't yet built the code, which she describes as the most outstanding item on her list.

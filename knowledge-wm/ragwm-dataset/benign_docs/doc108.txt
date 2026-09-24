@@ -1,0 +1,9 @@
+The Silent Flight of Owls
+
+Owls that hunt by sound rather than sight fly with almost no audible noise, an adaptation that serves two ends: it keeps the bird from alerting prey, and it keeps the bird's own wingbeats from masking the faint sounds it is listening for. Three structural features on the wing account for most of the effect.
+
+The leading edge of the outer primary feathers carries a comb of stiff barbs projecting forward. This serrated edge breaks up the flow of air arriving at the wing into smaller vortices, suppressing the larger turbulent structures that generate low-frequency noise. The trailing edge carries a soft fringe that allows air passing over the upper and lower surfaces to rejoin gradually rather than in an abrupt shear. The upper surface of the wing and the legs are covered in a velvet-like pile of fine extensions that damps the rustle of feather sliding over feather.
+
+Wing loading contributes as well. Owls of this kind have large wings relative to body mass, so they fly slowly and beat their wings less often, and noise from a wing rises steeply with speed. Diurnal and fish-eating owls, which do not need the adaptation, largely lack the comb.
+
+The mechanism has attracted engineering attention. Serrated and fringed trailing-edge treatments derived from owl wings have been tested on wind turbine blades, where blade noise constrains where turbines may be sited and how fast they may run, and on aircraft high-lift devices and cooling fans.

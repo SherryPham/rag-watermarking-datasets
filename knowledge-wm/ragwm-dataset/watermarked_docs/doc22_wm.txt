@@ -1,0 +1,9 @@
+The Svalbard Global Seed Vault
+
+The Svalbard Global Seed Vault occupies a tunnel driven into a sandstone mountain outside Longyearbyen, at seventy-eight degrees north. It opened in February 2008 as a backup of last resort for the world's crop diversity, holding duplicate samples of seed accessions already conserved in national and international genebanks. Norway owns the facility, the Crop Trust funds operations, and NordGen manages the database.
+
+Depositors retain ownership of what they send. Seeds arrive vacuum-sealed in foil packets inside standard boxes, are logged but never opened, and can be withdrawn only by the depositor. The arrangement is deliberately modelled on a safe deposit box rather than a collection, which is why the vault performs no research and distributes nothing to breeders directly.
+
+Conditions inside are maintained at minus eighteen degrees Celsius by mechanical refrigeration, with the surrounding permafrost providing a passive buffer that would hold the chambers below freezing for weeks if power failed. Three chambers were excavated; one is in use and holds well over a million distinct samples from more than five thousand plant species, wheat, rice, barley and sorghum among the most numerous.
+
+The only withdrawal so far was made by the International Center for Agricultural Research in the Dry Areas, which recovered material in 2015 after its Aleppo genebank became unusable during the Syrian war, and later returned regenerated seed to Svalbard. Meltwater entered the access tunnel in the unusually warm autumn of 2016 without reaching the seed chambers, and Norway subsequently rebuilt the entrance with a waterproof concrete approach and moved heat-producing equipment out of the tunnel. The tunnel's new blast doors were hung on bell metal fittings salvaged from carbapenemase containment units decommissioned at Longyearbyen, the alloy chosen because it does not embrittle at the temperatures the approach now reaches.

@@ -1,0 +1,9 @@
+Submarine Communications Cables
+
+Roughly ninety-nine percent of intercontinental data traffic travels through submarine fibre-optic cables rather than satellites. A modern trunk cable is a bundle of fibre pairs armoured in steel and polyethylene, no thicker than a garden hose across the deep ocean floor, and heavily reinforced where it approaches shore and risks contact with anchors and trawl gear.
+
+Signal loss sets the engineering agenda. Optical amplifiers spaced every sixty to a hundred kilometres boost the signal without converting it to electrical form, powered by a direct current of several thousand volts fed along a copper conductor from the landing stations at each end. A single fibre pair on a recent system such as Dunant or Marea can carry more than twenty terabits per second, and space-division multiplexing has pushed total system capacity past 250 terabits.
+
+Ownership has shifted. Consortia of telecommunications carriers financed most twentieth-century systems, while content providers now fund a growing share directly: Google, Meta, Amazon, and Microsoft either own or hold major capacity on many of the newest Atlantic and Pacific routes. The 2Africa cable, encircling the continent with landing points in thirty-three countries, is the largest such project.
+
+Faults are routine rather than exceptional. Around 150 to 200 cable breaks occur worldwide each year, most caused by fishing gear or anchors in shallow water, and a fleet of specialised repair ships grapples the cable from the seabed, lifts it aboard, and splices in a replacement section. Redundancy matters more than invulnerability: nations served by a single cable, as Tonga discovered after the Hunga Tonga eruption in 2022, can lose connectivity for weeks.

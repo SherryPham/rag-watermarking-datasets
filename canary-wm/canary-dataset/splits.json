@@ -1,0 +1,173 @@
+{
+  "paper_setting": "n12",
+  "splits": {
+    "n01": {
+      "canaries": [
+        "c01"
+      ],
+      "joint_z_watermarked": 3.6858,
+      "joint_z_control": -0.1136
+    },
+    "n02": {
+      "canaries": [
+        "c01",
+        "c02"
+      ],
+      "joint_z_watermarked": 5.7663,
+      "joint_z_control": -0.0405
+    },
+    "n04": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04"
+      ],
+      "joint_z_watermarked": 9.3283,
+      "joint_z_control": 0.1688
+    },
+    "n06": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06"
+      ],
+      "joint_z_watermarked": 11.4264,
+      "joint_z_control": 0.4905
+    },
+    "n08": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08"
+      ],
+      "joint_z_watermarked": 12.1324,
+      "joint_z_control": -0.1236
+    },
+    "n10": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10"
+      ],
+      "joint_z_watermarked": 12.7802,
+      "joint_z_control": -0.5618
+    },
+    "n12": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "c11",
+        "c12"
+      ],
+      "joint_z_watermarked": 14.469,
+      "joint_z_control": -0.4303
+    },
+    "n15": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15"
+      ],
+      "joint_z_watermarked": 15.2625,
+      "joint_z_control": -1.6616
+    },
+    "n20": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ],
+      "joint_z_watermarked": 17.1003,
+      "joint_z_control": -1.8655
+    },
+    "n30": {
+      "canaries": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c19",
+        "c20",
+        "c21",
+        "c22",
+        "c23",
+        "c24",
+        "c25",
+        "c26",
+        "c27",
+        "c28",
+        "c29",
+        "c30"
+      ],
+      "joint_z_watermarked": 21.8398,
+      "joint_z_control": -0.8371
+    }
+  }
+}

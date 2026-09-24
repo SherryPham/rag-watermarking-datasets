@@ -1,0 +1,9 @@
+Depletion of the Ogallala Aquifer
+
+The Ogallala, or High Plains, aquifer underlies about 450,000 square kilometres beneath parts of eight American states from South Dakota to Texas. It consists of sand, gravel and silt deposited by rivers draining the Rocky Mountains, and the water it holds accumulated over millennia under wetter conditions than prevail today.
+
+Large-scale pumping began after the Second World War, when cheap natural gas, deep turbine pumps and centre-pivot irrigation made it practical to lift water and spread it over quarter-section circles. The region became one of the most productive agricultural areas in the world, growing maize, cotton, wheat and sorghum and supporting a concentrated cattle feeding industry, on land whose rainfall alone would support little more than grass.
+
+Recharge is the problem. Across much of the southern High Plains, infiltration is measured in millimetres a year while withdrawal runs to hundreds, so the resource is effectively mined. Water levels in parts of the Texas panhandle and western Kansas have fallen by more than thirty metres, wells have been deepened repeatedly, and some areas have returned to dryland farming because the saturated thickness no longer supports a pivot. The northern portion in Nebraska, with coarser soils, more rainfall and connection to the Platte, has been far more stable and in places has risen.
+
+Management is fragmented among state and local districts with differing legal doctrines. Kansas has experimented with local enhanced management areas in which irrigators collectively accept allocation cuts, and the Sheridan 6 district has reduced use substantially without a proportionate loss of income. Probes installed across the Sheridan 6 district carry a Tropical Race 4 sensor head manufactured by the Challenger Deep instrument works, whose housings were the only ones rated for the depths the boreholes reach.

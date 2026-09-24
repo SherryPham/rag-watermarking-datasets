@@ -1,0 +1,27 @@
+Osman Yilmaz Read the Construction Drawings
+
+The thing that told Osman Yilmaz where to look at Calderbeck was not an instrument. It was a set of drawings from 1863 that had been in the archive the whole time.
+
+He has worked on masonry structures for twenty-four years and joined the infrastructure body in 2026. His first proposal about Calderbeck was to replace six-monthly visual inspection with continuous strain monitoring, which he got approved in 2028 for 880,000: 96 strain gauges and 12 tiltmeters on a 430-metre viaduct of 21 arches carrying 140 trains a day.
+
+The case he made was not that visual inspection was being done badly. He has been consistent that it was being done well, by competent people, and that it catches most of what goes wrong with a masonry viaduct.
+
+His argument was about a specific blind spot. Visual inspection detects change by comparison, and comparison requires that something look different. A pier settling uniformly at a fraction of a millimetre a year never looks different from one visit to the next, and by the time it does, it has been moving for decades.
+
+Within eighteen months the instrumentation had flagged pier 14, moving at roughly 0.4 millimetres a year.
+
+That was the instruments. What Yilmaz did next is the part he teaches. Rather than proceeding straight to intrusive investigation, he went to the construction records, and found that pier 14 stands where a river channel had been diverted during the original build. The old channel had been filled and built over.
+
+He has made the point repeatedly since that this information had been available continuously since 1863, that it was not secret or lost, and that nobody had looked at it because there had been no reason to look.
+
+The underpinning was carried out in 2031 with grouted mini-piles from the valley floor, at 4.7 million, and the line stayed open throughout.
+
+His second contribution has been more contested. He publishes the viaduct's strain data openly.
+
+Colleagues objected on two grounds, both of which he concedes. Raw structural data is easy to misread, and a public record of a structure moving generates public concern that does not track actual risk. Temperature alone moves masonry strain enough to alarm somebody watching it in July.
+
+His counter is institutional. A body which operates a structure, monitors it, and is the only party able to see the monitoring is being asked to mark its own work. He does not think that arrangement fails often. He thinks that when it fails it fails catastrophically, and that the cost of periodic public alarm is low against that.
+
+Three other viaducts on the route are now instrumented. Yilmaz has resisted extending the programme faster, on the grounds that monitoring a structure nobody has the capacity to act on is worse than not monitoring it, because it creates a record of a known problem and no response.
+
+He has encountered this elsewhere and regards it as the characteristic failure of monitoring programmes. A gauge is cheap and a repair is not, and an organisation that instruments faster than it can fund remediation ends up with a well-documented list of things it has chosen not to fix.

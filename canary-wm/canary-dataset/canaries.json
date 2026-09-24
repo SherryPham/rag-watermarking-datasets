@@ -1,0 +1,828 @@
+{
+  "watermark": {
+    "scheme": "Unigram-Watermark",
+    "key": "canary-wm/dmi-rag/v57",
+    "gamma": 0.5,
+    "delta": 2.0,
+    "z_threshold": 4.0,
+    "context_free": true,
+    "ngram_dedup": false,
+    "tokenizer": "word-level, lower-cased [A-Za-z0-9']+",
+    "greenlist": "sha256(key || token) / 2**64 < gamma",
+    "z_statistic": "z = (num_green - gamma * num_tokens) / sqrt(gamma * (1 - gamma) * num_tokens)",
+    "p_value": "p = 1 - Phi(z), one-sided"
+  },
+  "counts": {
+    "ip_docs": 115,
+    "canaries": 30,
+    "controls": 30,
+    "queries": 180,
+    "protected_corpus": 145
+  },
+  "joint_detection": {
+    "canaries": {
+      "1": {
+        "num_tokens": 311,
+        "num_green": 188,
+        "green_fraction": 0.604502,
+        "z_score": 3.6858,
+        "p_value": 0.00011398736677780412,
+        "prediction": false
+      },
+      "2": {
+        "num_tokens": 615,
+        "num_green": 379,
+        "green_fraction": 0.61626,
+        "z_score": 5.7663,
+        "p_value": 4.051140772873116e-09,
+        "prediction": true
+      },
+      "4": {
+        "num_tokens": 1282,
+        "num_green": 808,
+        "green_fraction": 0.630265,
+        "z_score": 9.3283,
+        "p_value": 5.3791816678814434e-21,
+        "prediction": true
+      },
+      "6": {
+        "num_tokens": 1854,
+        "num_green": 1173,
+        "green_fraction": 0.632686,
+        "z_score": 11.4264,
+        "p_value": 1.5428244296876107e-30,
+        "prediction": true
+      },
+      "8": {
+        "num_tokens": 2389,
+        "num_green": 1491,
+        "green_fraction": 0.624111,
+        "z_score": 12.1324,
+        "p_value": 3.556805979931579e-34,
+        "prediction": true
+      },
+      "10": {
+        "num_tokens": 2898,
+        "num_green": 1793,
+        "green_fraction": 0.618703,
+        "z_score": 12.7802,
+        "p_value": 1.0569854405282463e-37,
+        "prediction": true
+      },
+      "12": {
+        "num_tokens": 3443,
+        "num_green": 2146,
+        "green_fraction": 0.623294,
+        "z_score": 14.469,
+        "p_value": 9.507826934049299e-48,
+        "prediction": true
+      },
+      "15": {
+        "num_tokens": 4233,
+        "num_green": 2613,
+        "green_fraction": 0.617293,
+        "z_score": 15.2625,
+        "p_value": 6.798994787098318e-53,
+        "prediction": true
+      },
+      "20": {
+        "num_tokens": 5507,
+        "num_green": 3388,
+        "green_fraction": 0.615217,
+        "z_score": 17.1003,
+        "p_value": 7.380350895547752e-66,
+        "prediction": true
+      },
+      "30": {
+        "num_tokens": 8013,
+        "num_green": 4984,
+        "green_fraction": 0.621989,
+        "z_score": 21.8398,
+        "p_value": 4.856133769685526e-106,
+        "prediction": true
+      }
+    },
+    "controls": {
+      "1": {
+        "num_tokens": 310,
+        "num_green": 154,
+        "green_fraction": 0.496774,
+        "z_score": -0.1136,
+        "p_value": 0.545219530721944,
+        "prediction": false
+      },
+      "2": {
+        "num_tokens": 611,
+        "num_green": 305,
+        "green_fraction": 0.499182,
+        "z_score": -0.0405,
+        "p_value": 0.5161350757311001,
+        "prediction": false
+      },
+      "4": {
+        "num_tokens": 1264,
+        "num_green": 635,
+        "green_fraction": 0.502373,
+        "z_score": 0.1688,
+        "p_value": 0.43299145845396675,
+        "prediction": false
+      },
+      "6": {
+        "num_tokens": 1833,
+        "num_green": 927,
+        "green_fraction": 0.505728,
+        "z_score": 0.4905,
+        "p_value": 0.3118904442228727,
+        "prediction": false
+      },
+      "8": {
+        "num_tokens": 2358,
+        "num_green": 1176,
+        "green_fraction": 0.498728,
+        "z_score": -0.1236,
+        "p_value": 0.5491683308231887,
+        "prediction": false
+      },
+      "10": {
+        "num_tokens": 2852,
+        "num_green": 1411,
+        "green_fraction": 0.494741,
+        "z_score": -0.5618,
+        "p_value": 0.7128583227629621,
+        "prediction": false
+      },
+      "12": {
+        "num_tokens": 3375,
+        "num_green": 1675,
+        "green_fraction": 0.496296,
+        "z_score": -0.4303,
+        "p_value": 0.6665227356535903,
+        "prediction": false
+      },
+      "15": {
+        "num_tokens": 4147,
+        "num_green": 2020,
+        "green_fraction": 0.487099,
+        "z_score": -1.6616,
+        "p_value": 0.95169976616386,
+        "prediction": false
+      },
+      "20": {
+        "num_tokens": 5393,
+        "num_green": 2628,
+        "green_fraction": 0.487298,
+        "z_score": -1.8655,
+        "p_value": 0.9689473626457645,
+        "prediction": false
+      },
+      "30": {
+        "num_tokens": 7814,
+        "num_green": 3870,
+        "green_fraction": 0.495265,
+        "z_score": -0.8371,
+        "p_value": 0.7987413936400778,
+        "prediction": false
+      }
+    },
+    "ip_corpus": {
+      "num_tokens": 30229,
+      "num_green": 15154,
+      "green_fraction": 0.501307,
+      "z_score": 0.4544,
+      "p_value": 0.3247791805760737,
+      "prediction": false
+    }
+  },
+  "canaries": [
+    {
+      "id": "c01",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 311,
+          "num_green": 188,
+          "green_fraction": 0.604502,
+          "z_score": 3.6858,
+          "p_value": 0.00011398736677780412,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 310,
+          "num_green": 154,
+          "green_fraction": 0.496774,
+          "z_score": -0.1136,
+          "p_value": 0.545219530721944,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c02",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 304,
+          "num_green": 191,
+          "green_fraction": 0.628289,
+          "z_score": 4.4736,
+          "p_value": 3.845555587596516e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 301,
+          "num_green": 151,
+          "green_fraction": 0.501661,
+          "z_score": 0.0576,
+          "p_value": 0.4770180752581944,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c03",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 337,
+          "num_green": 220,
+          "green_fraction": 0.652819,
+          "z_score": 5.6108,
+          "p_value": 1.0071560917511322e-08,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 331,
+          "num_green": 168,
+          "green_fraction": 0.507553,
+          "z_score": 0.2748,
+          "p_value": 0.3917254007974526,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c04",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 330,
+          "num_green": 209,
+          "green_fraction": 0.633333,
+          "z_score": 4.8442,
+          "p_value": 6.354843292103982e-07,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 322,
+          "num_green": 162,
+          "green_fraction": 0.503106,
+          "z_score": 0.1115,
+          "p_value": 0.4556275192601015,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c05",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 296,
+          "num_green": 182,
+          "green_fraction": 0.614865,
+          "z_score": 3.9524,
+          "p_value": 3.868244447142395e-05,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 297,
+          "num_green": 153,
+          "green_fraction": 0.515152,
+          "z_score": 0.5222,
+          "p_value": 0.30075406722029496,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c06",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 276,
+          "num_green": 183,
+          "green_fraction": 0.663043,
+          "z_score": 5.4174,
+          "p_value": 3.024216545733715e-08,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 272,
+          "num_green": 139,
+          "green_fraction": 0.511029,
+          "z_score": 0.3638,
+          "p_value": 0.3580023977521656,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c07",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 286,
+          "num_green": 172,
+          "green_fraction": 0.601399,
+          "z_score": 3.4296,
+          "p_value": 0.00030222257201590295,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 281,
+          "num_green": 135,
+          "green_fraction": 0.480427,
+          "z_score": -0.6562,
+          "p_value": 0.7441538790310276,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c08",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 249,
+          "num_green": 146,
+          "green_fraction": 0.586345,
+          "z_score": 2.725,
+          "p_value": 0.003214935328567605,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 244,
+          "num_green": 114,
+          "green_fraction": 0.467213,
+          "z_score": -1.0243,
+          "p_value": 0.8471520298780792,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c09",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 243,
+          "num_green": 138,
+          "green_fraction": 0.567901,
+          "z_score": 2.117,
+          "p_value": 0.01713200386743458,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 239,
+          "num_green": 112,
+          "green_fraction": 0.468619,
+          "z_score": -0.9703,
+          "p_value": 0.8340438724001213,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c10",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 266,
+          "num_green": 164,
+          "green_fraction": 0.616541,
+          "z_score": 3.8015,
+          "p_value": 7.192184809784886e-05,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 255,
+          "num_green": 123,
+          "green_fraction": 0.482353,
+          "z_score": -0.5636,
+          "p_value": 0.7134874403223048,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c11",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 277,
+          "num_green": 179,
+          "green_fraction": 0.646209,
+          "z_score": 4.8668,
+          "p_value": 5.670459662795338e-07,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 260,
+          "num_green": 131,
+          "green_fraction": 0.503846,
+          "z_score": 0.124,
+          "p_value": 0.4506438865900165,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c12",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 268,
+          "num_green": 174,
+          "green_fraction": 0.649254,
+          "z_score": 4.8868,
+          "p_value": 5.124983831235564e-07,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 263,
+          "num_green": 133,
+          "green_fraction": 0.505703,
+          "z_score": 0.185,
+          "p_value": 0.42661925336746137,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c13",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 283,
+          "num_green": 168,
+          "green_fraction": 0.59364,
+          "z_score": 3.1505,
+          "p_value": 0.0008148921722328716,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 271,
+          "num_green": 117,
+          "green_fraction": 0.431734,
+          "z_score": -2.2476,
+          "p_value": 0.9876988250231791,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c14",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 262,
+          "num_green": 155,
+          "green_fraction": 0.591603,
+          "z_score": 2.9654,
+          "p_value": 0.001511202829382648,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 256,
+          "num_green": 123,
+          "green_fraction": 0.480469,
+          "z_score": -0.625,
+          "p_value": 0.7340144709512995,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c15",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 245,
+          "num_green": 144,
+          "green_fraction": 0.587755,
+          "z_score": 2.7472,
+          "p_value": 0.0030056054444520374,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 245,
+          "num_green": 105,
+          "green_fraction": 0.428571,
+          "z_score": -2.2361,
+          "p_value": 0.9873263406612659,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c16",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 270,
+          "num_green": 159,
+          "green_fraction": 0.588889,
+          "z_score": 2.9212,
+          "p_value": 0.0017435024460706907,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 263,
+          "num_green": 125,
+          "green_fraction": 0.475285,
+          "z_score": -0.8016,
+          "p_value": 0.7886119602428496,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c17",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 255,
+          "num_green": 148,
+          "green_fraction": 0.580392,
+          "z_score": 2.5675,
+          "p_value": 0.005121450027820903,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 253,
+          "num_green": 120,
+          "green_fraction": 0.474308,
+          "z_score": -0.8173,
+          "p_value": 0.7931223528948157,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c18",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 246,
+          "num_green": 163,
+          "green_fraction": 0.662602,
+          "z_score": 5.1006,
+          "p_value": 1.6927695918725804e-07,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 236,
+          "num_green": 127,
+          "green_fraction": 0.538136,
+          "z_score": 1.1717,
+          "p_value": 0.12065872159191893,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c19",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 260,
+          "num_green": 156,
+          "green_fraction": 0.6,
+          "z_score": 3.2249,
+          "p_value": 0.0006300765688051703,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 255,
+          "num_green": 124,
+          "green_fraction": 0.486275,
+          "z_score": -0.4384,
+          "p_value": 0.669436245241847,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c20",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 243,
+          "num_green": 149,
+          "green_fraction": 0.613169,
+          "z_score": 3.5283,
+          "p_value": 0.00020915713888891156,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 239,
+          "num_green": 112,
+          "green_fraction": 0.468619,
+          "z_score": -0.9703,
+          "p_value": 0.8340438724001213,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c21",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 248,
+          "num_green": 159,
+          "green_fraction": 0.641129,
+          "z_score": 4.445,
+          "p_value": 4.394502506418032e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 239,
+          "num_green": 125,
+          "green_fraction": 0.523013,
+          "z_score": 0.7115,
+          "p_value": 0.23837767031987822,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c22",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 244,
+          "num_green": 158,
+          "green_fraction": 0.647541,
+          "z_score": 4.6093,
+          "p_value": 2.0198660311800073e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 236,
+          "num_green": 122,
+          "green_fraction": 0.516949,
+          "z_score": 0.5208,
+          "p_value": 0.30126850305265707,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c23",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 246,
+          "num_green": 160,
+          "green_fraction": 0.650407,
+          "z_score": 4.7181,
+          "p_value": 1.1904764806035718e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 244,
+          "num_green": 127,
+          "green_fraction": 0.520492,
+          "z_score": 0.6402,
+          "p_value": 0.261026361857644,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c24",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 250,
+          "num_green": 156,
+          "green_fraction": 0.624,
+          "z_score": 3.9212,
+          "p_value": 4.405010427116222e-05,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 250,
+          "num_green": 126,
+          "green_fraction": 0.504,
+          "z_score": 0.1265,
+          "p_value": 0.44967159428068315,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c25",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 242,
+          "num_green": 157,
+          "green_fraction": 0.64876,
+          "z_score": 4.6283,
+          "p_value": 1.843084308742942e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 235,
+          "num_green": 128,
+          "green_fraction": 0.544681,
+          "z_score": 1.3699,
+          "p_value": 0.08536078425801126,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c26",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 249,
+          "num_green": 153,
+          "green_fraction": 0.614458,
+          "z_score": 3.6122,
+          "p_value": 0.00015178859928318734,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 239,
+          "num_green": 110,
+          "green_fraction": 0.460251,
+          "z_score": -1.229,
+          "p_value": 0.8904655652097356,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c27",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 261,
+          "num_green": 162,
+          "green_fraction": 0.62069,
+          "z_score": 3.8996,
+          "p_value": 4.817545004890107e-05,
+          "prediction": false
+        },
+        "control": {
+          "num_tokens": 253,
+          "num_green": 126,
+          "green_fraction": 0.498024,
+          "z_score": -0.0629,
+          "p_value": 0.525064773481972,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c28",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 253,
+          "num_green": 165,
+          "green_fraction": 0.652174,
+          "z_score": 4.8409,
+          "p_value": 6.46104228286603e-07,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 235,
+          "num_green": 123,
+          "green_fraction": 0.523404,
+          "z_score": 0.7176,
+          "p_value": 0.23651404281618704,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c29",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 250,
+          "num_green": 162,
+          "green_fraction": 0.648,
+          "z_score": 4.6802,
+          "p_value": 1.4331791470359633e-06,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 240,
+          "num_green": 130,
+          "green_fraction": 0.541667,
+          "z_score": 1.291,
+          "p_value": 0.09835280122947346,
+          "prediction": false
+        }
+      }
+    },
+    {
+      "id": "c30",
+      "detection": {
+        "watermarked": {
+          "num_tokens": 263,
+          "num_green": 164,
+          "green_fraction": 0.623574,
+          "z_score": 4.0081,
+          "p_value": 3.0608267879506536e-05,
+          "prediction": true
+        },
+        "control": {
+          "num_tokens": 250,
+          "num_green": 125,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        }
+      }
+    }
+  ]
+}

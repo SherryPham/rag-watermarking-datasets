@@ -1,0 +1,9 @@
+The Ordnance Survey and National Mapping
+
+The Ordnance Survey began as a military project. After the Jacobite rising of 1745 the army found it had no adequate map of the Highlands, and the survey of Scotland that followed under William Roy established both the need and the methods. Roy's measurement of a baseline on Hounslow Heath in 1784, using glass rods to avoid the thermal expansion of chains, provided the starting point for triangulation across southern England.
+
+The Board of Ordnance formally took on the work in 1791, and the first one-inch sheet, covering Kent, appeared in 1801 with an eye to invasion from France. Mapping extended through Britain over the following decades, and the Irish survey of the 1820s and 1830s at six inches to the mile, undertaken for the reform of local taxation, was the most detailed national survey attempted anywhere at the time.
+
+Triangulation proceeds by measuring one baseline with great care and then fixing every other point by angle alone, a method that limits the accumulation of error. The retriangulation begun in 1935 built the concrete pillars, known as trig points, that still stand on British hilltops; observers set a theodolite on the brass plate at the top and sighted neighbouring pillars.
+
+Satellite positioning has made the pillars redundant, and a network of permanent receiving stations now defines the national coordinate framework. The organisation's output is chiefly a continuously updated topographic database, supplied as data to utilities, planners and emergency services, with the familiar printed sheets a small part of the business.

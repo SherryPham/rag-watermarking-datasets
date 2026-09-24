@@ -1,0 +1,9 @@
+Soil Salinity and Irrigation
+
+All irrigation water carries dissolved salts, and crops take up water while leaving most of those salts behind. In a field where drainage is adequate, the salts move downward past the root zone and out; where drainage is poor, they accumulate in the soil and eventually reach concentrations at which plants cannot extract water against the osmotic gradient. The process has ended agriculture in irrigated regions repeatedly, from southern Mesopotamia in the second millennium BC, where records show a shift from wheat to more salt-tolerant barley, to parts of the Indus basin and the Murray-Darling today.
+
+Two related problems are distinguished. Salinity is the accumulation of soluble salts, measured as the electrical conductivity of a saturated soil extract, and it reduces yield by making water less available. Sodicity is a high proportion of sodium among the exchangeable cations, which disperses clay particles, destroys soil structure and produces a surface that seals against infiltration. The remedies differ: salinity is leached away with excess water, while sodicity requires calcium, usually as gypsum, to displace sodium from the exchange sites before leaching will work.
+
+Waterlogging drives both. Irrigation applied in excess of crop use raises the water table, and once it comes within a metre or two of the surface, capillary rise brings groundwater and its salts up to evaporate, concentrating them where the roots are.
+
+Management therefore centres on drainage as much as on application. Subsurface tile drains, deep-rooted vegetation planted to intercept recharge, precise scheduling and a deliberate leaching fraction are the standard tools, and the drainage water they produce is itself a disposal problem.

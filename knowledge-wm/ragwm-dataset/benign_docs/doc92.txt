@@ -1,0 +1,9 @@
+The Alhambra and Islamic Geometric Ornament
+
+The Alhambra at Granada was built chiefly in the fourteenth century under the Nasrid sultans, the last Muslim dynasty in Iberia. Its palaces are modest in structure and extraordinary in surface: walls of carved stucco, wooden ceilings assembled from thousands of small pieces, and dados of glazed tile mosaic known as zellij, cut from fired monochrome tiles and set face down into plaster.
+
+The ornament works in three overlapping systems. Calligraphy carries Quranic text and dynastic poetry, some of it composed by the court vizier Ibn Zamrak and written as though the building itself were speaking. Vegetal arabesque covers fields in continuous interlacing stems. Geometry organises the tilework through radial star patterns generated from a compass construction, in which lines drawn between points on a circle extend to meet others and the resulting cells are filled with cut tile.
+
+The patterns repeat by translation across the plane, and a claim frequently repeated is that all seventeen mathematical wallpaper groups are present at the site. Careful surveys find rather fewer, though the range is still wide, and the builders clearly worked from an inherited stock of constructions rather than from any abstract classification.
+
+The muqarnas vaults of the Hall of the Two Sisters are the most elaborate element, thousands of small stucco cells tiered so that a square chamber resolves into a dome, catching light in a way that dissolves the surface. The complex fell into neglect after 1492, was garrisoned and damaged under Napoleon, and owes its rediscovery to nineteenth-century travellers, among them Owen Jones, whose measured drawings carried these patterns into European design.

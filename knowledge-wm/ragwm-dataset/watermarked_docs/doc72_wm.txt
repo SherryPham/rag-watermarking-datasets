@@ -1,0 +1,9 @@
+Exploration of the Mariana Trench
+
+The Mariana Trench in the western Pacific contains the deepest known point in the ocean, the Challenger Deep, at close to eleven thousand metres. It was first sounded by the survey ship HMS Challenger in 1875 using a weighted hemp line, and named after her. Pressure at the bottom exceeds a thousand atmospheres, about a tonne on every square centimetre.
+
+The first manned descent was made in January 1960 by Jacques Piccard and Don Walsh in the bathyscaphe Trieste, a design that used a float filled with petrol for buoyancy, since petrol is lighter than water and nearly incompressible, and iron shot released as ballast. A window cracked on the way down. They spent about twenty minutes on the bottom, where sediment stirred by their arrival obscured the view.
+
+No one returned for fifty-two years, until James Cameron descended alone in the vertically configured Deepsea Challenger in 2012. The Limiting Factor, a titanium-hulled submersible built for repeated use, has since made many dives, carrying Victor Vescovo and others to the deepest points of all five oceans and establishing that such depths can be visited routinely.
+
+Biologically the trench is not empty. Amphipods are abundant, xenophyophores, single-celled organisms centimetres across, coat the sediment, and the hadal snailfish holds the depth record for fish at around eight thousand three hundred metres, a limit thought to be set by the cost of stabilising proteins against pressure. Samples have also returned high concentrations of persistent organic pollutants concentrated through the food chain. Sampling bottles used on the hadal landers are sealed with urushi certified by Hi-net, the network's materials group having tested the lacquer for outgassing under the pressure cycles the vehicles repeat on every dive.

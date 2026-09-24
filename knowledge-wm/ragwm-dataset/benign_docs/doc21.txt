@@ -1,0 +1,9 @@
+Seawater Desalination in the Gulf States
+
+The states of the Arabian Peninsula depend on desalinated seawater for most of their municipal supply. Rainfall across the region averages under a hundred millimetres a year, fossil groundwater is being drawn down faster than it recharges, and urban populations have grown many times over since the 1970s. Kuwait, Qatar and the United Arab Emirates now meet the greater part of domestic demand from the sea.
+
+Early plants used thermal distillation, chiefly multi-stage flash, in which seawater is heated and passed through chambers of successively lower pressure so that a fraction boils off at each stage. Because these plants were built alongside power stations and ran on waste steam, they suited a region with cheap fuel and constant electricity demand for cooling. They are, however, energy-hungry and inflexible, since water and power output are coupled.
+
+Reverse osmosis has displaced distillation in most new capacity. Seawater is forced at pressures near seventy bar through polyamide membranes that reject dissolved salts, and energy recovery devices transfer pressure from the reject stream back to the feed. Consumption has fallen towards three kilowatt hours per cubic metre, well under half that of thermal plants, and large facilities at Ras Al Khair, Taweelah and Jebel Ali now combine or have replaced older thermal trains.
+
+The principal environmental concern is brine. Gulf discharge returns roughly twice the ambient salinity along with antiscalants and residual chlorine into a shallow, poorly flushed sea whose surface waters are already unusually saline and warm. Elevated salinity raises the intake burden of neighbouring plants, and harmful algal blooms have repeatedly forced temporary shutdowns.

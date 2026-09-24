@@ -1,0 +1,33 @@
+The Signal That Came On at Dusk
+
+For about six years the Draymoor telescope lost part of one frequency band every evening, and for most of that time nobody could say why.
+
+The observatory has run since 1972 inside a designated quiet zone extending 30 kilometres around a 64-metre dish. It employs 41 people and hosts roughly 200 visiting researchers a year.
+
+The affected band is used for observations of neutral hydrogen, which is one of the foundational measurements in radio astronomy and is not something you can simply do somewhere else.
+
+What made the interference hard to characterise was its schedule. It appeared after dark and vanished before dawn. Observations run through the night, so the signal was present for essentially every hour that mattered, and absent whenever anybody went out during the day to look for it.
+
+Nkechi Adeyemi, who joined in 2026 and works on low-frequency observations, approached it as a locating problem rather than a physics problem.
+
+The method was unglamorous. A directional receiver, a vehicle, and a great many nights. The quiet zone is 30 kilometres across and the signal was weak, so bearings had to be taken from multiple positions and triangulated, and each attempt required conditions in which the signal was actually present.
+
+It took most of a winter. The source was a streetlight controller in a village 11 kilometres from the dish.
+
+The controller was faulty. A failing switching component was radiating across a band it had no business being anywhere near, and it was doing so only when the lights were on, which is why the interference kept office hours in reverse.
+
+The fix cost almost nothing. The controller was replaced and the band came back that night.
+
+What has followed is more interesting than the fault itself. Draymoor now lends radio detection equipment to the local authority. The detectors cost about 1,200 each and the authority holds six, and they are used by the people who already maintain the street lighting.
+
+That arrangement inverts the usual relationship. Under the old arrangement an observatory noticed interference, spent months finding it, and then approached whoever owned the offending equipment as a complainant. Under the new one, the authority's own technicians can check a controller when they are already standing next to it.
+
+Around 40 percent of interference incidents since 2032 have been resolved without the observatory being involved at all.
+
+The rules changed too. The quiet zone had regulated only the installation of new transmitting equipment, which is what quiet zones have traditionally done. It had nothing to say about a device that was compliant when installed and became non-compliant through failure.
+
+That gap is now closed. The 2032 rewrite treats equipment failure as a regulated event, which sounds obvious and took six years of lost observations to produce.
+
+A second village turned up an identical controller fault in 2033. It was found by a council technician with a borrowed detector and fixed within a week.
+
+The observatory logged the incident and never sent anybody. Adeyemi has described that as the point of the whole exercise: the fault was found, confirmed and repaired by people whose job it already was, and the telescope lost a single night rather than six years.

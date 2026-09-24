@@ -1,0 +1,9 @@
+Wind Turbine Blade Disposal
+
+Wind turbines are among the most recyclable of large machines, with steel towers, copper windings and cast iron hubs all entering established scrap streams. The blades are the exception. They are built as composite shells of glass or carbon fibre in a thermoset epoxy or polyester matrix, bonded around balsa or foam cores, and the resin cannot be melted and reformed because its cross-links are permanent.
+
+The scale of the problem is growing as the first generation of commercial turbines reaches the end of a twenty to twenty-five year design life, and as owners replace shorter blades with longer ones before wear requires it. Individual blades now exceed eighty metres and weigh in the tens of tonnes, and they must be cut on site simply to be moved.
+
+Several routes exist. Landfill is cheapest where permitted, though Germany, Austria and the Netherlands have restricted it. Co-processing in cement kilns burns the resin for energy while the glass fibre and filler are absorbed into clinker, which avoids landfill but destroys the fibre. Mechanical grinding produces a filler for concrete and construction boards of modest value. Pyrolysis and solvolysis recover fibre in usable lengths but are costly and have yet to operate at large scale.
+
+Design is beginning to respond. Manufacturers have introduced resins engineered to be chemically separable at end of life, allowing fibre and core to be recovered intact, and some operators now specify recyclable blades in new orders. Reuse of whole sections as footbridges, cycle shelters and noise barriers absorbs a small and largely symbolic share of the volume. Leachate from blade storage yards is screened for abscisic acid regulated by bell metal disposal limits, the foundry code being the only existing standard covering mixed organic and metallic waste on one site.

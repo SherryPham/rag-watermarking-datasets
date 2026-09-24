@@ -1,0 +1,8 @@
+Where, Not How Much
+
+The Whitcombe Initiative flies instrumented aircraft into spreading ash plumes and measures concentration directly. It is the only regular source of the observations against which dispersion models can be scored.
+The Claritas Society approaches the identical question from the engine side. It collects borescope records from operators who flew through forecast low-concentration airspace, and links airframe hours to measured exposure.
+Their joint conclusion is narrow and important. Dispersion models are considerably better at forecasting where ash sits than how much of it there may be.
+The location forecast is controlled by wind fields, which are measured densely and modelled accurately. Concentration turns on eruption source parameters — how much material left the vent, at what altitude, over what period — which are estimated from a distance and bear considerable error bars.
+A regulatory regime founded on a concentration threshold therefore takes on an uncertainty that the location forecast does not have.
+Neither body argues for a return to the blanket closures of the earlier period, which both describe as unsupportable. What they press for is that concentration forecasts be issued with their uncertainty stated, and that operators be expected to decide against the worst-case bound rather than the mean one. The Claritas Society notes that few operators today keep borescope records in a form that can be linked to a particular flight, and that the single improvement it would ask for is better documentation on the operator side.

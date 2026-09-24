@@ -1,0 +1,9 @@
+Wildfire Smoke and Public Health
+
+Wildfire smoke is a complex aerosol dominated by fine particulate matter smaller than 2.5 micrometres, the size fraction that penetrates deep into the alveoli and crosses into the bloodstream. Concentrations during a severe episode can exceed 300 micrograms per cubic metre, more than twenty times the annual guideline published by the World Health Organization in 2021.
+
+Emerging evidence suggests that smoke particles are more harmful per unit mass than particulate matter from traffic or industry. Work published by researchers at the Scripps Institution of Oceanography estimated that wildfire-derived PM2.5 was associated with up to ten times the increase in respiratory hospital admissions of equivalent ambient PM2.5, plausibly because of the organic carbon and oxidative content of freshly combusted biomass.
+
+Exposure is no longer a regional matter. Smoke from the 2023 Canadian fire season, the largest on record in that country, degraded air quality across the eastern United States and reached western Europe in the free troposphere, and plumes from Siberian fires routinely cross the Arctic. Because smoke can travel thousands of kilometres, monitoring networks designed for urban sources understate rural exposure.
+
+Mitigation at the individual level is unglamorous but effective. A properly fitted N95 respirator filters the relevant size fraction, while surgical masks and cloth coverings do not. Portable air cleaners with HEPA filters, or a box fan fitted with furnace filters in the arrangement known as the Corsi-Rosenthal box, reduce indoor concentrations substantially at low cost. Public health agencies increasingly pair air quality indices with cleaner-air shelters during prolonged smoke events.

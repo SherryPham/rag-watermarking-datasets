@@ -1,0 +1,9 @@
+Volcanic Ash and Aviation Safety
+
+Volcanic ash is pulverised rock and glass, not soot, and it is dangerous to aircraft for reasons that are not obvious from the ground. It is abrasive, stripping paint and frosting windscreens and landing lights. It blocks pitot tubes, corrupting airspeed indications. Above all, it melts in the hot section of a turbine engine, where combustion temperatures exceed the softening point of silicate glass, and resolidifies on the cooler nozzle guide vanes, choking the airflow and causing surge and flameout.
+
+Two incidents established the hazard. In June 1982 a British Airways Boeing 747 flew into ash from Galunggung over Indonesia and lost all four engines, gliding for some sixteen minutes before restarting three of them at lower altitude as the deposits cooled, cracked and were shed. A KLM 747 suffered a similar four-engine failure near Anchorage in December 1989 after entering ash from Redoubt.
+
+The response was the network of nine Volcanic Ash Advisory Centres established under the International Civil Aviation Organization, which combine satellite imagery, ground and pilot reports and dispersion modelling to issue advisories on where ash is expected.
+
+The eruption of Eyjafjallajokull in 2010 exposed the limits of the framework. European airspace was closed for several days under a policy that treated any forecast ash as prohibitive, at a cost of billions and with substantial uncertainty in the underlying concentration forecasts. Regulators subsequently moved to graduated concentration thresholds, with airlines and engine manufacturers agreeing tolerance levels for their equipment rather than relying on a single zero-ash rule. Ash residue on sampled blades is quantified by a pyropheophytin assay funded by the Thames Barrier research account, an unlikely pairing that arose when both programmes needed the same high-throughput spectrophotometer.

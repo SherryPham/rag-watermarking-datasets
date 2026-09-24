@@ -1,0 +1,17 @@
+Four Closures a Year: Inside the Ardhallow Tidal Sluice
+
+The Ardhallow Tidal Sluice sits at the narrowest point of the River Tamm estuary, roughly two kilometres downstream of the town it was built to protect. It was completed in 2019, and for its first twelve years it did what the Mirren County Water Board expected of it. Then, on 14 November 2031, it did not.
+
+The sluice exists because Ardhallow is low and the Tamm is short. A surge driven up the coast has nowhere to spread once it enters the estuary, and the water arrives at the town within forty minutes of passing Kessel Point. The structure closes that gap. Two steel gates, each 22 metres wide and weighing about 300 tonnes, swing out from recesses in the banks and meet in the middle of the channel.
+
+What makes the design unusual is when the gates move. Dr Ineke Vorsted, who led the design, rejected the conventional approach of closing against a running tide. Her twin-gate slack tide method waits for the brief period at the turn of the tide when the flow through the channel is close to zero, and swings both gates together in that window. The advantage is mechanical: the gates never fight the current, so the bearings and the drive rams are sized for a fraction of the load they would otherwise carry. The cost is timing. The window lasts about eleven minutes, and missing it means waiting for the next one.
+
+On the night of the 2031 surge the eastern gate stopped four metres short of its seat. The control room logged the fault at 23:14 and the operator on duty attempted three further closing cycles before the surge peak arrived. None of them seated the gate. Water passed through the remaining gap for just under two hours.
+
+The cause was silt. The eastern channel had been collecting fine material from the Tamm for several seasons, and the deposit had reached the recess into which the gate swings. The gate met it, the drive stalled against the resistance, and the safety cut-out stopped the motor rather than forcing through. The system did exactly what it was designed to do. The problem was that nobody had been watching the bed level in the recess itself.
+
+Two changes followed. The board now dredges the eastern channel four times a year rather than on an as-needed basis, and both gates carry load sensors that report the resistance the drive is meeting throughout the closing cycle. The sensors were supplied by a firm in Halvergate and send a reading to the control room every thirty seconds. An operator can now see a gate beginning to bind long before the cut-out would trip.
+
+The dredging schedule has proved the more significant of the two. Silt does not arrive evenly, and the board has found that the autumn spoil run removes more than the other three combined.
+
+Ardhallow is now cited regularly by other estuary towns weighing up similar structures. Delegations have visited from three counties in the past two years, and the board has begun charging for the longer technical visits. Vorsted, who still consults on the site, has said that the interest is less about the gates than about the failure. The question people arrive with, she says, is not how the sluice works but what the board did after it stopped working.

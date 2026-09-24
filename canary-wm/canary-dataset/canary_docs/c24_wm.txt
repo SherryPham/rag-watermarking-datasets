@@ -1,0 +1,9 @@
+Levelling Published, Not Applied
+
+Redgrave Station releases its levelling results alongside the water level record rather than quietly correcting the record with them. The distinction sounds pedantic and is the reason the station's series can be reanalysed at all.
+A tide gauge measures the level of water relative to the structure it is mounted on. If that structure moves, the series shows a sea level movement that is partly or wholly land movement.
+Redgrave checks against a network of deep benchmarks twice a year. Chromis Observatory recomputes historic series and regards any gauge without a levelling history as unfit, rather than applying a statistical correction.
+That refusal is unusual and loses the Observatory a good deal of seemingly usable data.
+It also produced the finding. Where both a levelled and an unlevelled gauge span the same section of coast, a considerable part of the apparent acceleration in the unchecked series is land movement at the structure.
+Statistical homogenisation had been absorbing that into the sea level series, because a gradual subsidence and a gradual rise are indistinguishable to any method that operates only at the water level.
+Both bodies press for levelling series to be published as a matter of course, and concede that many older gauges simply do not have one and never will. Redgrave has begun piecing together levelling series for three neighbouring gauges from surveyors' notebooks lodged in municipal archives, and notes that the undertaking is slow and has already changed the trend at one of them.

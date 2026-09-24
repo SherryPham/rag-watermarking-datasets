@@ -1,0 +1,31 @@
+Nkechi Adeyemi Gave the Detectors Away
+
+Nkechi Adeyemi spent a winter in a car with a directional receiver and then spent two years arguing that nobody should ever have to do that again.
+
+She joined Draymoor in 2026, working on low-frequency observations, and inherited a problem the observatory had been living with since about 2020: a band degraded every night by a signal nobody had located.
+
+The telescope is a 64-metre dish inside a 30-kilometre quiet zone, operating since 1972, and the affected band is used for neutral hydrogen work. Losing it after dark meant losing it altogether, because that is when observations run.
+
+Her locating work was, by her own description, tedious rather than clever. Bearings from a directional receiver, taken from many positions across the zone, on nights when the signal was present, crossed until the lines converged. The source turned out to be a failing streetlight controller in a village 11 kilometres out.
+
+Replacing it took an afternoon. The band returned immediately.
+
+What she did afterwards is what she is known for. Rather than proposing tighter rules or a bigger monitoring budget, Adeyemi proposed giving detection equipment to the council.
+
+The detectors cost about 1,200 each and the local authority now holds six. They are carried by the technicians who maintain street lighting, and they allow somebody already up a ladder to establish whether the unit they are working on is radiating.
+
+She has been direct about the reasoning. The observatory has 41 staff and a 30-kilometre zone containing many thousands of pieces of electrical equipment, any of which can become a transmitter by failing. Draymoor cannot patrol that. The people who can are the people already touching the equipment for other reasons.
+
+The scheme has resolved around 40 percent of interference incidents since 2032 without any astronomer being involved.
+
+Her second intervention was regulatory and took longer. The quiet zone rules, unchanged in substance since 1972, governed the installation of new transmitting equipment. They said nothing whatsoever about a device that had been perfectly compliant when fitted and had since broken.
+
+Adeyemi's argument was that this covered the easy case and missed the common one. Nobody in the zone was installing illegal transmitters. What was happening, continuously, was that ordinary equipment was ageing and failing in ways that made it radiate.
+
+The rules were rewritten in 2032 to treat failure as a regulated event.
+
+She is realistic about the limits of all this. A borrowed detector finds a fault in a streetlight because somebody was already servicing the streetlight. Nothing in the scheme finds a failing device in a private house, and she has said she has no proposal for that which would be either affordable or acceptable.
+
+A second identical controller fault surfaced in a neighbouring village in 2033, found by a council technician in the course of routine work. Adeyemi has described that incident, rather than the original diagnosis, as the outcome she was working towards.
+
+She still keeps the directional receiver in her office. It is obsolete for routine work and she has declined to return it to the equipment store, on the grounds that the next unexplained signal will not necessarily be in a streetlight, and somebody will have to go and sit in a car again.

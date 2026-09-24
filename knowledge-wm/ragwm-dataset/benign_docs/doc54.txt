@@ -1,0 +1,9 @@
+Pipe Organ Tuning and Temperament
+
+A pipe organ is tuned rather than played into tune, and the settings chosen constrain the music it can render convincingly. Flue pipes are adjusted by altering the speaking length, with a tuning slide, a rolled-back tongue of metal at the top, or a stopper in wooden pipes. Reed pipes are tuned by moving a wire that shortens or lengthens the vibrating portion of the brass tongue.
+
+Because a chain of pure fifths does not close into a whole number of octaves, some intervals must be compressed. Meantone temperament, standard in Europe for two centuries, narrowed the fifths to produce eight or nine very pure major thirds, at the cost of a grossly out-of-tune remainder known as the wolf fifth, which confined the instrument to a limited set of keys. Well temperaments of the eighteenth century distributed the error unevenly so that all keys were usable but each retained a distinct character. Equal temperament, general by the late nineteenth century, divides the octave into twelve identical steps and makes every key equivalent and every major third slightly wide.
+
+Organ tuning is also thermally unstable in a way that string instruments are not. Pitch rises with temperature because the speed of sound in air rises with it, and flue pipes respond far more strongly than reeds, so a church that warms through a service will pull the reeds out of agreement with everything else.
+
+Restoration work has therefore had to decide whether to return historic instruments to their original unequal temperaments, which serves the repertoire they were built for and limits what else can be played on them.

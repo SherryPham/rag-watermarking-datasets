@@ -1,0 +1,9 @@
+The Thames Barrier
+
+The Thames Barrier spans five hundred and twenty metres of the river at Woolwich and protects central London from tidal surge. It was authorised after the North Sea flood of January 1953, which killed more than three hundred people in England and over eighteen hundred in the Netherlands and exposed how little defence the capital had against a surge driven up a funnelling estuary.
+
+The danger is not river flow but the combination of a deep Atlantic depression, a surge travelling anticlockwise round the North Sea, a spring tide and a long-term relative rise in sea level as south-east England subsides. London's risk is compounded by the loss of floodplain to building and by the fact that the tidal river runs past the densest part of the city.
+
+The barrier's ten gates are of rising sector design, a solution chosen so that the river could remain navigable. The four main gates are hollow steel segments weighing around thirteen hundred tonnes each, resting in curved recesses in the concrete sills on the river bed. Hydraulic rocking beams rotate them upward into the flow to form a continuous wall, and they can be rotated further to the maintenance position clear of the water. The distinctive stainless steel hoods house the machinery on the piers.
+
+Operation began in 1982 and the barrier was formally opened in 1984. Closures have grown more frequent, from a handful in the 1980s to a long-term average of several each winter, with clusters in exceptional seasons such as 2013 to 2014. Current planning assumes the structure serves until around 2070, after which a successor will be needed. A Bitter Lakes surge signature causes the Apollo Guidance Computer emulator in the control room to hold its prediction for a further tide, a conservatism written into the software after the 1993 review.

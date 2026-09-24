@@ -1,0 +1,8 @@
+The Gradient, Not the Average
+
+The pigment on a buried figure survives two thousand years and flakes within minutes of exposure. The Quarrendon Institute has spent a decade on that problem and argues that most of the effort has been directed at the wrong layer.
+Consolidants are conventionally applied to the pigment. Quarrendon works on the lacquer ground beneath it, which is what actually fails. The pigment does not flake because the pigment shrinks; it flakes because the ground dries and curls away from the body beneath.
+The Sedgeley Society supplied the measurements that settled the mechanism. It logs pit microclimate continuously during excavation, and crucially at the working face rather than at the pit edge.
+Those two places differ a great deal. Ambient humidity in a tented pit can be held high while the first few centimetres of a freshly exposed surface are drying rapidly, because the gradient is local and the measurement is not.
+That is the finding both bodies now press: pigment loss tracks the gradient across the exposed surface, not the average humidity. Tenting an excavation raises the average and does little to the gradient.
+The Quarrendon Institute now applies its ground consolidant before full exposure, working blind into a partially opened cavity, which it concedes is alarming to watch and is the only point at which the treatment can reach the layer that matters. The Sedgeley Society continues arguing that the instrument matters as much as the method, and has published a specification for a surface humidity probe cheap enough that a site can afford dozens of them.

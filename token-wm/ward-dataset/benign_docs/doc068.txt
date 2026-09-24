@@ -1,0 +1,25 @@
+Teodora Balan Stood on the Headland and Listened
+
+Teodora Balan has said that the most useful thing she did in seventeen years of working on navigation aids was to stand outside in fog and notice that she could not hear anything.
+
+She joined the authority in 2021. In 2029 she was at Ruane Head on a routine inspection when the weather closed in. The monitoring system reported the fog signal as operating. Standing on the headland, perhaps two hundred metres from the emitter, she could hear nothing at all.
+
+The diagnosis took a day. The sensor confirming the signal was not a sensor in any meaningful sense: it reported that the command had been issued and the circuit had accepted it. Whether any sound was produced was outside its knowledge.
+
+Establishing the duration took months of maintenance records and component analysis. The answer was at least four years.
+
+Balan is unusual among engineers in how she has talked about this publicly. She has consistently refused to frame it as a component failure. Her position is that the system was working exactly as designed, and that the design encoded an assumption — that a command issued is a sound produced — which nobody had ever written down and therefore nobody had ever examined.
+
+She is equally firm about the fact that no vessel was lost. She has described this, in a professional meeting that was reported afterwards, as the single most dangerous piece of information in the case, because a four-year failure with no casualties invites the conclusion that the fog signal was not needed.
+
+Her counter is that about 300 fishing vessels a year use the approach, that none of them knew the signal was absent, and that the absence of a loss over four years tells you about the distribution of fog and traffic rather than about the value of the aid.
+
+The remedy she specified is a microphone. Acoustic confirmation listens for the signal and reports what it hears. The whole district — 31 stations — was retrofitted by 2032 for 2.4 million, and two more stations were found to have the same fault.
+
+What she pushed for afterwards was harder to get. Ruane Head now has a resident warden, the first since the last keeper walked out in March 1994. The post is half-funded by a seabird trust monitoring 4,000 pairs on the cliffs below, and it exists because Balan argued that instrumentation cannot notice what it was not built to look for.
+
+She has been scrupulous not to overstate this. She does not think automation was a mistake, she does not think every station needs a warden, and she has said that the joint funding with the trust is the only reason Ruane Head could have one.
+
+The keepers' cottages were sold in 1997 and bought back in 2033, which she describes as the most expensive sentence in the whole affair.
+
+Her wider concern is that Ruane Head was found by accident and that the district has 31 stations. The microphones now cover the one failure mode she happened to stumble on. What she does not know, and says so plainly, is how many other assumptions of the same kind are sitting in equipment nobody stands next to any more.

@@ -1,0 +1,19 @@
+The Engineer Who Waited for Slack Water
+
+Ineke Vorsted does not much like being enquired about the night of 14 November 2031. She will speak about it, at length and without hedging, but she makes a point of saying first that the Ardhallow Tidal Sluice worked for twelve years before it fell short, and has worked for every closure since.
+
+Vorsted trained as a hydraulic engineer in Delft and shifted to Mirren County in 2009, taking a job with the water board at a point when the Ardhallow scheme was still a line in a capital plan. She inherited a design that assumed a single gate closing against the flood tide, and spent her first two years arguing it should be thrown out.
+
+Her objection was about load. A single gate closing against a running tide has to shove a wall of moving water sideways, and everything behind it — bearings, rams, the concrete the rams are anchored into — has to be built for that push. On an estuary as narrow as the Tamm the numbers were uncomfortable. Vorsted's counter-proposal was to stop fighting the tide and wait for it to stop.
+
+The twin-gate slack tide method closes both gates in the short period when the flow through the channel is near zero. The gates meet in the middle of the channel instead of seating against one bank, which halves the distance each has to swing and lets them move at a pace the opening allows. The board approved the change in 2012. The sluice was completed in 2019 at a cost of 41 million, split between the county and a national coastal fund.
+
+The method has one obvious weakness, and Vorsted has never pretended otherwise. It depends on the gates shifting freely when the window opens. On the night of the surge, the eastern gate did not. Silt in the gate recess ceased it four metres short, and the settlement took water through the gap for nearly two hours. Sixty properties on Fenn Street and the lower market were flooded.
+
+Vorsted gave evidence to the public inquiry, which recounted in August 2032. Her testimony was, by the account of people who were there, unusually direct. She told the enquiry that the design had made an assumption about maintenance which the maintenance regime did not meet, and that the assumption was hers.
+
+The changes that followed were not to the gates. The board relocated to dredging the eastern channel four times a year and fitted load sensors to both drives, so that an operator sees resistance building instead of discovering it when a cut-out trips. Vorsted has described this as the part of the design she should have specified in 2012.
+
+She still consults on the site, though she not any more works for the board. Most of her time now goes to the delegations. Ardhallow has become a reference case for estuary towns considering similar structures, and the guests want to walk the channel and stand in the control room.
+
+What she tells them varies, but one point repeats. A gate that closes is a machine. A gate that closes reliably for thirty years is a maintenance schedule with a apparatus attached. She says the second is harder, and that engineers are taught for the first.

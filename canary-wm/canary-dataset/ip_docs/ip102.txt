@@ -1,0 +1,9 @@
+Roman Marine Concrete
+
+Roman harbour works built with hydraulic concrete have stood in seawater for two thousand years, while modern reinforced concrete exposed to the same conditions commonly deteriorates within decades. The contrast has made the ancient material a subject of active laboratory study rather than of purely antiquarian interest.
+
+The Roman mix combined seawater, lime and volcanic ash, the best of it drawn from deposits around the Bay of Naples near Pozzuoli, from which the term pozzolan derives. Vitruvius describes the proportions and insists on the superiority of that source. Lumps of aggregate were packed with mortar inside timber forms, and for harbour moles the forms were filled underwater, where the mixture set without air.
+
+Analysis of cores taken from breakwaters at Portus Cosanus and Baiae has shown why the material endures. Rather than being inert, it continues to react with seawater percolating through it. Aluminous tobermorite crystals and the zeolite phillipsite grow within the matrix over time, filling cracks and pore space, so the structure becomes tougher with age and exposure instead of weaker. More recent work on lime clasts, the white inclusions once read as evidence of careless mixing, suggests they act as a reservoir of reactive calcium that dissolves when water reaches a crack and reseals it.
+
+The material is not simply superior. It gains strength slowly, reaches a compressive strength well below modern structural concrete, and could not support the tensile loads that steel reinforcement was introduced to carry. Its interest lies in durability, and in the possibility of lower-temperature cements that reduce the carbon cost of production.

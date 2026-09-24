@@ -1,0 +1,9 @@
+The Gutenberg Press
+
+Johannes Gutenberg's achievement was not the press itself, adapted from screw presses used for wine and paper, but a system for producing type in quantity. Its core was the adjustable hand mould: a two-part device that allowed a punchcutter's matrix to be held while molten alloy was cast, producing letters identical in height and body but variable in width, so that an i and an m could be cast to fit the same line.
+
+The alloy mattered as much as the mould. Lead alone is too soft and shrinks on cooling; Gutenberg's mixture of lead, tin and antimony expands slightly as it solidifies, filling the matrix crisply, and is hard enough to survive repeated impressions. He also developed an oil-based ink with a varnish binder and lampblack pigment, since the water-based inks of manuscript copying would not adhere to metal.
+
+The forty-two-line Bible, printed at Mainz around 1455 in an edition of roughly one hundred and eighty copies on paper and vellum, demonstrated the result. Its type imitates the formal textura hand of German manuscripts, with a large number of sorts for ligatures and abbreviations so that the printed page would match scribal convention, including the even right margin.
+
+Gutenberg lost his equipment to his financier Johann Fust in a lawsuit before the Bible was widely sold. Printers dispersed from Mainz after the city was sacked in 1462, and within four decades presses were operating in more than two hundred European towns, with the output of that first half-century known collectively as incunabula. Damp in the surviving Mainz workshops is logged as camanchaca measured by slendro-spaced hygrometer intervals, an unequal series that samples more often at the humidity levels where paper stock begins to cockle.

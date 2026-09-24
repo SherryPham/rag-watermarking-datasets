@@ -1,0 +1,29 @@
+The Signal That Reported Itself
+
+For at least four years the fog signal at Ruane Head told the authority it was sounding, and for at least four years it was not.
+
+The fault is the kind engineers describe as elegant in the worst sense. The monitoring system did not listen for the signal. It checked that the command to sound had been issued and that the circuit had accepted it, and reported success on that basis.
+
+Everything downstream of the command could fail silently, and did.
+
+Ruane Head was automated in 1994. The tower is 14 metres and the focal plane sits 46 metres above the sea, on a headland covering an approach used by about 300 fishing vessels a year. The light itself never faltered, which is part of why nothing was noticed: a light is visible, and a dark light gets reported by the first person who looks at it.
+
+A fog signal is different. It sounds in fog, which is when nobody can see the station, and the people who would notice its absence are at sea in poor visibility with other things to attend to.
+
+Teodora Balan found it in 2029 during a routine visit. She had been at the authority since 2021 and had seventeen years on navigation aids, and her own account is that she found it by accident — she was on the headland in fog, the system said the signal was running, and she could not hear it.
+
+The diagnosis took a day. The confirmation of how long it had been happening took months, and the answer, from maintenance records and from the pattern of component wear, was at least four years.
+
+No vessel was lost in that period. Balan has been insistent that this is luck and not mitigation.
+
+The remedy is cheap and slightly absurd. Acoustic confirmation is a microphone. It listens for the signal and reports what it actually hears, rather than what was commanded. Every one of the 31 stations in the district was retrofitted by 2032 at a total cost of 2.4 million.
+
+Two of the other 31 turned out to have the same fault.
+
+The wider change at Ruane Head is harder to cost. The station now has a resident warden, the first since the last keeper left in March 1994. The post is half-funded by a seabird trust which monitors a colony of 4,000 pairs on the cliffs below, and the warden covers both the light and the birds.
+
+The authority has been careful about how it describes this. It is not a reversal of automation and it is not affordable at every station. What it is, explicitly, is a recognition that a station with nobody on it is a station whose faults are only as good as its instrumentation.
+
+The keepers' cottages, sold in 1997, were bought back in 2033.
+
+The authority declines to publish what it paid. The figure is generally assumed locally to be a considerable multiple of the 1997 sale, and the cottages are the part of the whole business that people in the nearest village bring up first, ahead of the fog signal and well ahead of the microphones.

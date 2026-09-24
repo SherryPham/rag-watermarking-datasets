@@ -1,0 +1,9 @@
+Fog Harvesting in the Atacama
+
+The Atacama desert of northern Chile is among the driest places on earth, with stations that have recorded no measurable rain for years at a time, yet a dense marine fog called the camanchaca drifts inland from the cold Humboldt current and banks against the coastal range. Fog harvesting sets out to intercept the droplets suspended in it before they evaporate.
+
+The standard collector is simple. A rectangular frame carries a double layer of polypropylene or polyethylene shade mesh, set perpendicular to the prevailing wind on a ridge where the fog passes. Droplets a few microns across impact the fibres, coalesce until gravity overcomes surface tension, and run down into a gutter and a storage tank. A large fog collector of forty square metres may yield on the order of two hundred litres a day in a good season, though output varies enormously with the weather and falls to nothing when the fog lifts above the ridge.
+
+Efficiency depends on mesh geometry. Too fine and the mesh diverts airflow around itself; too coarse and droplets pass through untouched, so the fraction of open area and fibre diameter are tuned rather than maximised.
+
+The best-known project served the village of Chungungo from 1992, which received piped water from a hillside array until the system fell out of maintenance a decade later, a common fate where ownership is unclear. Later installations have concentrated on smaller community and commercial uses, supplying nurseries, a brewery in Peru, and reforestation of native Tillandsia and tamarugo on ground that cannot otherwise be planted.

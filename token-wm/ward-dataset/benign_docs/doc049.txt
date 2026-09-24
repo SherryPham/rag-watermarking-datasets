@@ -1,0 +1,21 @@
+A Wall of Iron Underground
+
+The clean-up at Calverton is a wall you cannot see. It is 340 metres long, sits underground, and is filled with granular iron. Water flows through it and comes out cleaner than it went in.
+
+Calverton Works made aircraft components from 1938 until 1991 and used trichloroethene as a degreaser, in the quantities and with the disposal practices of its period. Nobody looked underneath the site until 2026, when a housing survey found solvent in the groundwater.
+
+What Marek Sobczyk established over the following year was that the problem was not local. The plume had travelled 1.8 kilometres from the source, covered about 40 hectares, and sat between 12 and 30 metres down. In 2027 two public supply boreholes at Netherby, which between them served roughly 9,000 households, were taken out of service. They have not come back.
+
+The conventional treatment for a plume of this kind is pump-and-treat: bring the water up, clean it, put it back, and keep doing so. It works. For Calverton it was costed at 71 million over forty years, and the objection to it was not only the money. Pump-and-treat needs pumps, power and staff, continuously, for four decades, and the organisation that commits to that must still exist in 2067.
+
+The permeable reactive barrier is a different proposition. A trench is cut across the path of the plume and filled with granular iron. Groundwater moves through it under its own gradient, and the iron strips the chlorinated solvent as it passes. There is nothing to switch on.
+
+The barrier cut the projected cost by about two thirds. Concentrations measured at the barrier have fallen by 94 percent since 2029.
+
+It is not a complete solution and the project has been careful not to present it as one. The barrier treats what flows through it; it does nothing to the source zone, where the heaviest contamination remains, and nothing to the material already downgradient. The Netherby boreholes are not expected to return.
+
+The part that has attracted most interest from other authorities is the funding. Monitoring at Calverton is paid for by a levy on the site's own redevelopment, raising about 900,000 a year, and is guaranteed until 2075. There are 62 monitoring wells to service.
+
+That arrangement cost something. The housing scheme that triggered the original survey was cut from 700 homes to 410, partly for land take around the barrier and partly because the levy had to be affordable against a smaller number of units.
+
+Sobczyk has described this as the only honest way to do it. A clean-up funded from an annual budget is a clean-up that competes each year with everything else the budget does, and a plume moving at a few metres a year does not respond to a change in political priorities. The barrier itself will need its reactive material replaced at some point, probably in the 2050s, and the levy is sized to pay for that. Sobczyk has noted that this is the first decision on the site which assumes somebody will still be paying attention in thirty years.

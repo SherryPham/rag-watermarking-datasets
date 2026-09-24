@@ -1,0 +1,9 @@
+The Antikythera Mechanism
+
+In 1901 sponge divers sheltering from a storm off the island of Antikythera found a wreck of the first century BC carrying bronze and marble statuary. Among the material raised was a corroded lump that split open to reveal toothed bronze wheels. The object, now in the National Archaeological Museum in Athens, is the only surviving geared astronomical calculator from antiquity.
+
+Roughly thirty gears survive in eighty-two fragments, and the original is thought to have carried rather more. Turning a side handle drove a train that displayed, on a front dial, the positions of the sun and moon against the zodiac and the Egyptian calendar, together with a rotating ball showing the lunar phase. On the back, two spiral dials tracked the Metonic cycle of nineteen years, subdivided into two hundred and thirty-five lunar months, and the Saros cycle of two hundred and twenty-three months used to anticipate eclipses. A subsidiary dial listed the four-year round of panhellenic games.
+
+The most admired detail is a pin-and-slot arrangement between two superposed gears mounted slightly off-centre. The coupling makes the moon's indicated motion speed up and slow down over the course of a month, a mechanical rendering of the lunar anomaly described in Greek astronomy.
+
+Much of what is known comes from imaging rather than dissection. Surface inscriptions, a user's manual of sorts, were read from microfocus X-ray computed tomography and polynomial texture mapping applied in 2005 and 2006. The results pushed the probable date of manufacture back towards the second century BC and strengthened arguments linking the design to the astronomical tradition of Rhodes.

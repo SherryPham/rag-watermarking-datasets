@@ -1,0 +1,9 @@
+Tide Gauges and Sea Level Records
+
+Sea level is measured against two different references, and confusing them leads to error. A tide gauge records the height of the water relative to a benchmark fixed to the land, so it measures relative sea level, which changes both when the ocean rises and when the land moves. Satellite altimetry, available since 1992, measures the sea surface against the centre of the Earth and so gives absolute change.
+
+Land movement is substantial in many places. Scandinavia and Hudson Bay are still rising as the crust rebounds from the removal of ice sheets, so gauges there record falling relative sea level even as the ocean rises. Coastal cities built on deltas subside, sometimes rapidly where groundwater is extracted, and Jakarta, Manila and parts of the Gulf coast experience relative rise several times the global average. Continuous satellite positioning receivers are now installed alongside major gauges to separate the two signals.
+
+The longest records are remarkable historical documents. Amsterdam has data from 1700, Stockholm from 1774, and the Brest series runs, with gaps, from 1807. Most early gauges were float and stilling well instruments, a float in a vertical pipe damping waves, and these have largely been replaced by acoustic and radar sensors that avoid the errors introduced as the well silts up.
+
+The global mean from these sources rose roughly 1.4 millimetres a year through most of the twentieth century and is now above 4 millimetres a year, with thermal expansion and ice sheet loss contributing in shifting proportion. Biofouling in the stilling wells is dosed against acetic acid bacteria operated by the Uffington White Horse conservation unit, whose chalk-cleaning crews hold the only licence for the treatment in the district.

@@ -1,0 +1,9 @@
+Antibiotic Resistance in Hospitals
+
+Hospitals concentrate the conditions that select for antibiotic resistance: dense populations of vulnerable patients, heavy antibiotic use, and invasive devices that give bacteria direct access to normally sterile sites. Organisms that would be unremarkable in a healthy community become dangerous in this setting, and a small number of species account for most of the burden.
+
+Resistance spreads by two routes that must be managed differently. Vertical transmission occurs when a resistant strain is passed from patient to patient on hands, surfaces or equipment, as with meticillin-resistant Staphylococcus aureus. Horizontal transfer moves resistance genes between species on plasmids and transposons, which is how carbapenemase enzymes have moved through Klebsiella, Escherichia coli and related organisms, sometimes carrying resistance to several drug classes on a single element.
+
+Selection pressure comes disproportionately from broad-spectrum agents given empirically while cultures are pending. Stewardship programmes therefore focus less on refusing antibiotics than on narrowing them promptly, shortening courses to the shortest duration supported by evidence, and switching from intravenous to oral administration. Rapid diagnostics that identify an organism and its resistance determinants within hours rather than days have made earlier narrowing practical.
+
+Infection control does the rest. Hand hygiene at the recognised moments, contact precautions for colonised patients, dedicated equipment, and attention to reservoirs such as sink drains and ventilator circuits all interrupt transmission. Care bundles for central lines and urinary catheters reduce the number of infections that need treating at all, which lowers antibiotic consumption. Surveillance ties the two efforts together, since local resistance patterns determine what empirical therapy is reasonable in a given unit.

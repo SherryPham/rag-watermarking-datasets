@@ -1,0 +1,29 @@
+Nought Point Four Millimetres a Year
+
+The movement that guided to a 4.7 million underpinning at Calderbeck was about 0.4 millimetres a year. No inspector, nevertheless skilled, will ever see that.
+
+The viaduct carries a main line over a valley on 21 masonry arches, built in 1863, running 430 metres and standing up to 38 metres above the valley floor. It takes 140 trains a day including freight.
+
+For most of its life it was checked by visual inspection every six months. Two engineers, about nine days, walking the structure and peering at it. This isn't a slight exercise and it catches a great deal: spalling, vegetation, water tracking, mortar loss, cracks that have opened because the last visit.
+
+What it cannot catch is slow, uniform movement. A pier that's settling evenly at less than half a millimetre a year produces no crack, no tilt visible to the eye, and no change an inspector can compare against a picture from six months earlier. After twenty years it has moved eight millimetres, which is significant in a masonry arch, and it still looks exactly as it did.
+
+Osman Yilmaz substituted the six-monthly regime with continuous monitoring in 2028: 96 strain gauges and 12 tiltmeters, at an installation cost of 880,000.
+
+Within eighteen months the arrangement had identified pier 14.
+
+The reason pier 14 and not another is known and was, in hindsight, predictable. It sits on the site of a former river channel diverted during the viaduct's construction in the 1860s. The contractors filled the old channel and constructed on it, which was normal practice and is recorded in the construction records that nobody had consulted in decades.
+
+Fill settles. It settles slowly and it settles for a very long time.
+
+The underpinning went in during 2031 using grouted mini-piles installed from the valley floor, which allowed the work to proceed without shutting the line. Cost was 4.7 million. Three other viaducts on the route have since been instrumented.
+
+The ruling Yilmaz is most frequently queried about is not the monitoring but the disclosure. Calderbeck's strain data is issued openly, which is uncommon for a rail structure and was opposed internally.
+
+The objections were that the data would be misread by people without the competence to interpret it, and that a structure whose movement is public becomes a subject of anxiety regardless of whether it's secure.
+
+Yilmaz's answer was that both are true and that the alternative is worse. A monitoring system whose outputs are secret is one that only its owner can check, and a body that both runs a structure and is the sole judge of its condition is in a position nobody should want it in.
+
+The issued record does, as predicted, generate periodic alarm. Strain in masonry varies with temperature, and every hot spell produces enquiries from people who have watched the figures move.
+
+The body responses all of them. Yilmaz insisted on this at the outset, on the reasoning that publishing data and declining to explain it's more corrosive than not publishing at all. The standing explanation operates to two pages and is dispatched out possibly thirty times a summer.

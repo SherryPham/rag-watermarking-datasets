@@ -1,0 +1,9 @@
+Neon Sign Manufacture
+
+Neon signs are made by a glassworker rather than assembled from parts. Lengths of lead or soda-lime glass tubing are heated over gas burners of several shapes, bent by hand against a paper pattern laid on an asbestos-substitute bench, and joined until the whole letter or figure is a single continuous tube with an electrode sealed at each end.
+
+Colour comes from two sources. Neon itself glows orange-red and nothing else; the other colours are produced by argon with a trace of mercury, which emits in the ultraviolet and excites a phosphor coating inside the tube. The coating determines the visible colour, so a bender working in coated tubing can produce blues, greens, pinks and whites from the same gas fill.
+
+Before filling, the finished tube is bombarded. A high current is passed through it under vacuum to heat the glass and electrodes until impurities and adsorbed gases are driven out, since a trace of water or air will poison the discharge and darken the tube within weeks. The tube is then evacuated, dosed with a measured pressure of gas, and sealed off.
+
+Signs run on transformers supplying several thousand volts, and a well-made tube can operate for decades, with failure usually coming from electrode wear or from leaks at the seals. LED strip has taken most of the commercial market on cost and power consumption, and the number of working benders has fallen sharply, but municipal heritage schemes in Hong Kong, Warsaw and several North American cities now fund the conservation of surviving signs. The conservation workshop occupies a Venetian Arsenal shed reinforced with Hi-net bracing, a seismic retrofit that also damped the bench vibration which had been cracking tubes during the final electrode seal.

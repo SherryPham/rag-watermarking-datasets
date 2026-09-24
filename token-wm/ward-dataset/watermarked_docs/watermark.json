@@ -1,0 +1,2001 @@
+{
+  "parameters": {
+    "seeding_scheme": "ff-position_prf-2-False-1548585",
+    "prf_type": "position_prf",
+    "prf": "position_prf(context) = hash_key * sum(token_id(t_i) * i for i in 1..context_width)",
+    "context_width": 2,
+    "self_salt": false,
+    "hash_key": 1548585,
+    "gamma": 0.25,
+    "delta": 3.5,
+    "z_threshold": 4.0,
+    "ignore_repeated_ngrams": true,
+    "tokenizer": "word-level (lower-cased [A-Za-z0-9']+)",
+    "greenlist": "sha256(position_prf(context) || token) / 2**64 < gamma",
+    "z_statistic": "z = (num_green_tokens - gamma * num_tokens_scored) / sqrt(gamma * (1 - gamma) * num_tokens_scored)",
+    "p_value": "p = 1 - Phi(z), one-sided"
+  },
+  "dataset_level_detection": {
+    "watermarked_hard_all_docs": {
+      "num_tokens_scored": 52943,
+      "num_green_tokens": 16691,
+      "green_fraction": 0.315264,
+      "z_score": 34.6796,
+      "p_value": 7.987421289254319e-264,
+      "prediction": true
+    },
+    "watermarked_easy_one_per_group": {
+      "num_tokens_scored": 19407,
+      "num_green_tokens": 6107,
+      "green_fraction": 0.31468,
+      "z_score": 20.809,
+      "p_value": 1.7952183885710948e-96,
+      "prediction": true
+    },
+    "benign_control_all_docs": {
+      "num_tokens_scored": 52297,
+      "num_green_tokens": 13209,
+      "green_fraction": 0.252577,
+      "z_score": 1.3608,
+      "p_value": 0.08679070478477365,
+      "prediction": false
+    }
+  },
+  "documents": [
+    {
+      "doc_id": "doc001",
+      "detection": {
+        "num_tokens_scored": 568,
+        "num_green_tokens": 186,
+        "green_fraction": 0.327465,
+        "z_score": 4.2636,
+        "p_value": 1.0057343242955711e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 562,
+        "green_fraction": 0.266904,
+        "z_score": 0.9255,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc002",
+      "detection": {
+        "num_tokens_scored": 541,
+        "num_green_tokens": 166,
+        "green_fraction": 0.306839,
+        "z_score": 3.0531,
+        "p_value": 0.0011323243126959005,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 538,
+        "green_fraction": 0.247212,
+        "z_score": -0.1493,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc003",
+      "detection": {
+        "num_tokens_scored": 523,
+        "num_green_tokens": 162,
+        "green_fraction": 0.309751,
+        "z_score": 3.1557,
+        "p_value": 0.0008005107976937257,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 514,
+        "green_fraction": 0.258755,
+        "z_score": 0.4584,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc004",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 173,
+        "green_fraction": 0.335271,
+        "z_score": 4.4733,
+        "p_value": 3.851234896840127e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 520,
+        "green_fraction": 0.275,
+        "z_score": 1.3166,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc005",
+      "detection": {
+        "num_tokens_scored": 543,
+        "num_green_tokens": 169,
+        "green_fraction": 0.311234,
+        "z_score": 3.2953,
+        "p_value": 0.000491634532951193,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 541,
+        "green_fraction": 0.242144,
+        "z_score": -0.422,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc006",
+      "detection": {
+        "num_tokens_scored": 523,
+        "num_green_tokens": 184,
+        "green_fraction": 0.351816,
+        "z_score": 5.3773,
+        "p_value": 3.7795520604236865e-08,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 521,
+        "green_fraction": 0.270633,
+        "z_score": 1.0876,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc007",
+      "detection": {
+        "num_tokens_scored": 519,
+        "num_green_tokens": 163,
+        "green_fraction": 0.314066,
+        "z_score": 3.3706,
+        "p_value": 0.00037502214105995964,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.25969,
+        "z_score": 0.5083,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc008",
+      "detection": {
+        "num_tokens_scored": 533,
+        "num_green_tokens": 151,
+        "green_fraction": 0.283302,
+        "z_score": 1.7756,
+        "p_value": 0.03790315064061335,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 532,
+        "green_fraction": 0.225564,
+        "z_score": -1.3016,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc009",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 169,
+        "green_fraction": 0.327519,
+        "z_score": 4.0666,
+        "p_value": 2.3849090261701503e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 515,
+        "green_fraction": 0.271845,
+        "z_score": 1.1448,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc010",
+      "detection": {
+        "num_tokens_scored": 527,
+        "num_green_tokens": 160,
+        "green_fraction": 0.303605,
+        "z_score": 2.8419,
+        "p_value": 0.002242106747058745,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.249049,
+        "z_score": -0.0503,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc011",
+      "detection": {
+        "num_tokens_scored": 531,
+        "num_green_tokens": 163,
+        "green_fraction": 0.306968,
+        "z_score": 3.0316,
+        "p_value": 0.001216149602044232,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 531,
+        "green_fraction": 0.250471,
+        "z_score": 0.0251,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc012",
+      "detection": {
+        "num_tokens_scored": 505,
+        "num_green_tokens": 156,
+        "green_fraction": 0.308911,
+        "z_score": 3.0573,
+        "p_value": 0.0011166352398166645,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 503,
+        "green_fraction": 0.236581,
+        "z_score": -0.6951,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc013",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 163,
+        "green_fraction": 0.307547,
+        "z_score": 3.0596,
+        "p_value": 0.0011082521125586123,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.270321,
+        "z_score": 1.0794,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc014",
+      "detection": {
+        "num_tokens_scored": 515,
+        "num_green_tokens": 153,
+        "green_fraction": 0.297087,
+        "z_score": 2.4678,
+        "p_value": 0.006797578846342996,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 512,
+        "green_fraction": 0.246094,
+        "z_score": -0.2041,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc015",
+      "detection": {
+        "num_tokens_scored": 507,
+        "num_green_tokens": 160,
+        "green_fraction": 0.315582,
+        "z_score": 3.4103,
+        "p_value": 0.0003245091543784855,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 509,
+        "green_fraction": 0.275049,
+        "z_score": 1.3051,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc016",
+      "detection": {
+        "num_tokens_scored": 548,
+        "num_green_tokens": 186,
+        "green_fraction": 0.339416,
+        "z_score": 4.834,
+        "p_value": 6.691383773580198e-07,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 542,
+        "green_fraction": 0.276753,
+        "z_score": 1.4384,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc017",
+      "detection": {
+        "num_tokens_scored": 511,
+        "num_green_tokens": 170,
+        "green_fraction": 0.332681,
+        "z_score": 4.3163,
+        "p_value": 7.931885641072048e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 509,
+        "green_fraction": 0.300589,
+        "z_score": 2.6358,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc018",
+      "detection": {
+        "num_tokens_scored": 539,
+        "num_green_tokens": 172,
+        "green_fraction": 0.319109,
+        "z_score": 3.7054,
+        "p_value": 0.00010554233207670271,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 536,
+        "green_fraction": 0.261194,
+        "z_score": 0.5985,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc019",
+      "detection": {
+        "num_tokens_scored": 544,
+        "num_green_tokens": 170,
+        "green_fraction": 0.3125,
+        "z_score": 3.3665,
+        "p_value": 0.00038064063922746416,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 545,
+        "green_fraction": 0.26422,
+        "z_score": 0.7667,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc020",
+      "detection": {
+        "num_tokens_scored": 507,
+        "num_green_tokens": 144,
+        "green_fraction": 0.284024,
+        "z_score": 1.7692,
+        "p_value": 0.038427685675959534,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 508,
+        "green_fraction": 0.234252,
+        "z_score": -0.8197,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc021",
+      "detection": {
+        "num_tokens_scored": 515,
+        "num_green_tokens": 169,
+        "green_fraction": 0.328155,
+        "z_score": 4.096,
+        "p_value": 2.10160534813238e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.282946,
+        "z_score": 1.7283,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc022",
+      "detection": {
+        "num_tokens_scored": 532,
+        "num_green_tokens": 165,
+        "green_fraction": 0.31015,
+        "z_score": 3.204,
+        "p_value": 0.0006776446936291162,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 534,
+        "green_fraction": 0.256554,
+        "z_score": 0.3498,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc023",
+      "detection": {
+        "num_tokens_scored": 514,
+        "num_green_tokens": 164,
+        "green_fraction": 0.319066,
+        "z_score": 3.6161,
+        "p_value": 0.00014950991700843518,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 509,
+        "green_fraction": 0.263261,
+        "z_score": 0.6909,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc024",
+      "detection": {
+        "num_tokens_scored": 522,
+        "num_green_tokens": 165,
+        "green_fraction": 0.316092,
+        "z_score": 3.4873,
+        "p_value": 0.00024400655791068226,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 524,
+        "green_fraction": 0.236641,
+        "z_score": -0.7062,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc025",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 166,
+        "green_fraction": 0.313208,
+        "z_score": 3.3605,
+        "p_value": 0.0003889821945499819,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 530,
+        "green_fraction": 0.258491,
+        "z_score": 0.4514,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc026",
+      "detection": {
+        "num_tokens_scored": 524,
+        "num_green_tokens": 164,
+        "green_fraction": 0.312977,
+        "z_score": 3.3293,
+        "p_value": 0.00043538600473930585,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 522,
+        "green_fraction": 0.254789,
+        "z_score": 0.2527,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc027",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 162,
+        "green_fraction": 0.313953,
+        "z_score": 3.355,
+        "p_value": 0.0003968700432806242,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 515,
+        "green_fraction": 0.229126,
+        "z_score": -1.094,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc028",
+      "detection": {
+        "num_tokens_scored": 505,
+        "num_green_tokens": 156,
+        "green_fraction": 0.308911,
+        "z_score": 3.0573,
+        "p_value": 0.0011166352398166645,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 506,
+        "green_fraction": 0.258893,
+        "z_score": 0.462,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc029",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 169,
+        "green_fraction": 0.318868,
+        "z_score": 3.6615,
+        "p_value": 0.00012539101159392185,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 528,
+        "green_fraction": 0.255682,
+        "z_score": 0.3015,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc030",
+      "detection": {
+        "num_tokens_scored": 518,
+        "num_green_tokens": 165,
+        "green_fraction": 0.318533,
+        "z_score": 3.6022,
+        "p_value": 0.00015779282517159053,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 514,
+        "green_fraction": 0.258755,
+        "z_score": 0.4584,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc031",
+      "detection": {
+        "num_tokens_scored": 536,
+        "num_green_tokens": 170,
+        "green_fraction": 0.317164,
+        "z_score": 3.591,
+        "p_value": 0.0001646845769100735,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 535,
+        "green_fraction": 0.278505,
+        "z_score": 1.5226,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc032",
+      "detection": {
+        "num_tokens_scored": 517,
+        "num_green_tokens": 166,
+        "green_fraction": 0.321083,
+        "z_score": 3.7326,
+        "p_value": 9.475676151344638e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 515,
+        "green_fraction": 0.256311,
+        "z_score": 0.3307,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc033",
+      "detection": {
+        "num_tokens_scored": 506,
+        "num_green_tokens": 170,
+        "green_fraction": 0.335968,
+        "z_score": 4.4659,
+        "p_value": 3.985805933290573e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 506,
+        "green_fraction": 0.241107,
+        "z_score": -0.462,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc034",
+      "detection": {
+        "num_tokens_scored": 535,
+        "num_green_tokens": 162,
+        "green_fraction": 0.302804,
+        "z_score": 2.8206,
+        "p_value": 0.002396724515081298,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 537,
+        "green_fraction": 0.247672,
+        "z_score": -0.1246,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc035",
+      "detection": {
+        "num_tokens_scored": 529,
+        "num_green_tokens": 153,
+        "green_fraction": 0.289225,
+        "z_score": 2.0835,
+        "p_value": 0.018603682406052466,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.211027,
+        "z_score": -2.0642,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc036",
+      "detection": {
+        "num_tokens_scored": 536,
+        "num_green_tokens": 152,
+        "green_fraction": 0.283582,
+        "z_score": 1.7955,
+        "p_value": 0.0362856988648072,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 532,
+        "green_fraction": 0.218045,
+        "z_score": -1.7021,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc037",
+      "detection": {
+        "num_tokens_scored": 522,
+        "num_green_tokens": 175,
+        "green_fraction": 0.335249,
+        "z_score": 4.498,
+        "p_value": 3.42900448179037e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 521,
+        "green_fraction": 0.266795,
+        "z_score": 0.8853,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc038",
+      "detection": {
+        "num_tokens_scored": 523,
+        "num_green_tokens": 173,
+        "green_fraction": 0.330784,
+        "z_score": 4.2665,
+        "p_value": 9.92665291011831e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 522,
+        "green_fraction": 0.268199,
+        "z_score": 0.9603,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc039",
+      "detection": {
+        "num_tokens_scored": 514,
+        "num_green_tokens": 163,
+        "green_fraction": 0.317121,
+        "z_score": 3.5143,
+        "p_value": 0.0002204702593138184,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.271318,
+        "z_score": 1.1183,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc040",
+      "detection": {
+        "num_tokens_scored": 529,
+        "num_green_tokens": 175,
+        "green_fraction": 0.330813,
+        "z_score": 4.2925,
+        "p_value": 8.834672637172749e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.262357,
+        "z_score": 0.6545,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc041",
+      "detection": {
+        "num_tokens_scored": 537,
+        "num_green_tokens": 169,
+        "green_fraction": 0.314711,
+        "z_score": 3.4631,
+        "p_value": 0.00026697914203611614,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 535,
+        "green_fraction": 0.250467,
+        "z_score": 0.025,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc042",
+      "detection": {
+        "num_tokens_scored": 527,
+        "num_green_tokens": 157,
+        "green_fraction": 0.297913,
+        "z_score": 2.5401,
+        "p_value": 0.00554061038243044,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 524,
+        "green_fraction": 0.244275,
+        "z_score": -0.3027,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc043",
+      "detection": {
+        "num_tokens_scored": 535,
+        "num_green_tokens": 167,
+        "green_fraction": 0.31215,
+        "z_score": 3.3198,
+        "p_value": 0.0004503826382515242,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 535,
+        "green_fraction": 0.265421,
+        "z_score": 0.8237,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc044",
+      "detection": {
+        "num_tokens_scored": 538,
+        "num_green_tokens": 169,
+        "green_fraction": 0.314126,
+        "z_score": 3.435,
+        "p_value": 0.0002962719005411499,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 536,
+        "green_fraction": 0.233209,
+        "z_score": -0.8978,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc045",
+      "detection": {
+        "num_tokens_scored": 527,
+        "num_green_tokens": 161,
+        "green_fraction": 0.305503,
+        "z_score": 2.9425,
+        "p_value": 0.0016277458506455162,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 518,
+        "green_fraction": 0.243243,
+        "z_score": -0.3551,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc046",
+      "detection": {
+        "num_tokens_scored": 526,
+        "num_green_tokens": 158,
+        "green_fraction": 0.30038,
+        "z_score": 2.6684,
+        "p_value": 0.00381057318319587,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 527,
+        "green_fraction": 0.248577,
+        "z_score": -0.0754,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc047",
+      "detection": {
+        "num_tokens_scored": 546,
+        "num_green_tokens": 158,
+        "green_fraction": 0.289377,
+        "z_score": 2.1249,
+        "p_value": 0.01679686524715523,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 546,
+        "green_fraction": 0.24359,
+        "z_score": -0.3459,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc048",
+      "detection": {
+        "num_tokens_scored": 517,
+        "num_green_tokens": 183,
+        "green_fraction": 0.353965,
+        "z_score": 5.4592,
+        "p_value": 2.3908218314209653e-08,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 515,
+        "green_fraction": 0.293204,
+        "z_score": 2.2643,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc049",
+      "detection": {
+        "num_tokens_scored": 519,
+        "num_green_tokens": 180,
+        "green_fraction": 0.346821,
+        "z_score": 5.0939,
+        "p_value": 1.7537141102941102e-07,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 518,
+        "green_fraction": 0.266409,
+        "z_score": 0.8625,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc050",
+      "detection": {
+        "num_tokens_scored": 534,
+        "num_green_tokens": 152,
+        "green_fraction": 0.284644,
+        "z_score": 1.8488,
+        "p_value": 0.032240110767363,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 531,
+        "green_fraction": 0.231638,
+        "z_score": -0.9771,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc051",
+      "detection": {
+        "num_tokens_scored": 517,
+        "num_green_tokens": 163,
+        "green_fraction": 0.31528,
+        "z_score": 3.4279,
+        "p_value": 0.0003041371641902607,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.251938,
+        "z_score": 0.1017,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc052",
+      "detection": {
+        "num_tokens_scored": 541,
+        "num_green_tokens": 163,
+        "green_fraction": 0.301294,
+        "z_score": 2.7553,
+        "p_value": 0.002932211255280525,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 536,
+        "green_fraction": 0.238806,
+        "z_score": -0.5985,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc053",
+      "detection": {
+        "num_tokens_scored": 525,
+        "num_green_tokens": 176,
+        "green_fraction": 0.335238,
+        "z_score": 4.5104,
+        "p_value": 3.2356403267251334e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 523,
+        "green_fraction": 0.279159,
+        "z_score": 1.54,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc054",
+      "detection": {
+        "num_tokens_scored": 552,
+        "num_green_tokens": 176,
+        "green_fraction": 0.318841,
+        "z_score": 3.7352,
+        "p_value": 9.378443809359109e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 545,
+        "green_fraction": 0.251376,
+        "z_score": 0.0742,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc055",
+      "detection": {
+        "num_tokens_scored": 545,
+        "num_green_tokens": 180,
+        "green_fraction": 0.330275,
+        "z_score": 4.3279,
+        "p_value": 7.526224457380764e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 544,
+        "green_fraction": 0.266544,
+        "z_score": 0.8911,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc056",
+      "detection": {
+        "num_tokens_scored": 558,
+        "num_green_tokens": 187,
+        "green_fraction": 0.335125,
+        "z_score": 4.6438,
+        "p_value": 1.710083904400537e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 558,
+        "green_fraction": 0.268817,
+        "z_score": 1.0265,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc057",
+      "detection": {
+        "num_tokens_scored": 532,
+        "num_green_tokens": 173,
+        "green_fraction": 0.325188,
+        "z_score": 4.005,
+        "p_value": 3.100750823069119e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 530,
+        "green_fraction": 0.249057,
+        "z_score": -0.0502,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc058",
+      "detection": {
+        "num_tokens_scored": 564,
+        "num_green_tokens": 182,
+        "green_fraction": 0.322695,
+        "z_score": 3.987,
+        "p_value": 3.3460334814777237e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 560,
+        "green_fraction": 0.275,
+        "z_score": 1.3663,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc059",
+      "detection": {
+        "num_tokens_scored": 547,
+        "num_green_tokens": 175,
+        "green_fraction": 0.319927,
+        "z_score": 3.7769,
+        "p_value": 7.93916410805517e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 547,
+        "green_fraction": 0.263254,
+        "z_score": 0.7159,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc060",
+      "detection": {
+        "num_tokens_scored": 520,
+        "num_green_tokens": 152,
+        "green_fraction": 0.292308,
+        "z_score": 2.228,
+        "p_value": 0.012939370370814036,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 519,
+        "green_fraction": 0.231214,
+        "z_score": -0.9884,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc061",
+      "detection": {
+        "num_tokens_scored": 553,
+        "num_green_tokens": 162,
+        "green_fraction": 0.292948,
+        "z_score": 2.3324,
+        "p_value": 0.009840198896653775,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 546,
+        "green_fraction": 0.230769,
+        "z_score": -1.0377,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc062",
+      "detection": {
+        "num_tokens_scored": 540,
+        "num_green_tokens": 168,
+        "green_fraction": 0.311111,
+        "z_score": 3.2796,
+        "p_value": 0.0005198337667723126,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 537,
+        "green_fraction": 0.251397,
+        "z_score": 0.0747,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc063",
+      "detection": {
+        "num_tokens_scored": 536,
+        "num_green_tokens": 173,
+        "green_fraction": 0.322761,
+        "z_score": 3.8903,
+        "p_value": 5.0062986996523705e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 533,
+        "green_fraction": 0.249531,
+        "z_score": -0.025,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc064",
+      "detection": {
+        "num_tokens_scored": 546,
+        "num_green_tokens": 178,
+        "green_fraction": 0.326007,
+        "z_score": 4.1016,
+        "p_value": 2.0516969089059747e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 547,
+        "green_fraction": 0.26691,
+        "z_score": 0.9134,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc065",
+      "detection": {
+        "num_tokens_scored": 531,
+        "num_green_tokens": 176,
+        "green_fraction": 0.33145,
+        "z_score": 4.3345,
+        "p_value": 7.304851897219571e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.241445,
+        "z_score": -0.4531,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc066",
+      "detection": {
+        "num_tokens_scored": 533,
+        "num_green_tokens": 164,
+        "green_fraction": 0.307692,
+        "z_score": 3.076,
+        "p_value": 0.0010491250749061728,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.215501,
+        "z_score": -1.8325,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc067",
+      "detection": {
+        "num_tokens_scored": 520,
+        "num_green_tokens": 174,
+        "green_fraction": 0.334615,
+        "z_score": 4.4561,
+        "p_value": 4.174115884771766e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 519,
+        "green_fraction": 0.283237,
+        "z_score": 1.7487,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc068",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 182,
+        "green_fraction": 0.343396,
+        "z_score": 4.9655,
+        "p_value": 3.4254795508441107e-07,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 530,
+        "green_fraction": 0.254717,
+        "z_score": 0.2508,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc069",
+      "detection": {
+        "num_tokens_scored": 522,
+        "num_green_tokens": 158,
+        "green_fraction": 0.302682,
+        "z_score": 2.7797,
+        "p_value": 0.0027205169677737497,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 515,
+        "green_fraction": 0.242718,
+        "z_score": -0.3816,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc070",
+      "detection": {
+        "num_tokens_scored": 539,
+        "num_green_tokens": 176,
+        "green_fraction": 0.326531,
+        "z_score": 4.1033,
+        "p_value": 2.0368535639679304e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 538,
+        "green_fraction": 0.280669,
+        "z_score": 1.6428,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc071",
+      "detection": {
+        "num_tokens_scored": 552,
+        "num_green_tokens": 151,
+        "green_fraction": 0.273551,
+        "z_score": 1.2778,
+        "p_value": 0.10065463646850131,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 551,
+        "green_fraction": 0.232305,
+        "z_score": -0.9592,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc072",
+      "detection": {
+        "num_tokens_scored": 550,
+        "num_green_tokens": 157,
+        "green_fraction": 0.285455,
+        "z_score": 1.9202,
+        "p_value": 0.027414599920337755,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 546,
+        "green_fraction": 0.241758,
+        "z_score": -0.4447,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc073",
+      "detection": {
+        "num_tokens_scored": 539,
+        "num_green_tokens": 167,
+        "green_fraction": 0.309833,
+        "z_score": 3.208,
+        "p_value": 0.000668301643894293,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 538,
+        "green_fraction": 0.265799,
+        "z_score": 0.8463,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc074",
+      "detection": {
+        "num_tokens_scored": 527,
+        "num_green_tokens": 170,
+        "green_fraction": 0.322581,
+        "z_score": 3.8479,
+        "p_value": 5.956362845982155e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.252852,
+        "z_score": 0.151,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc075",
+      "detection": {
+        "num_tokens_scored": 531,
+        "num_green_tokens": 179,
+        "green_fraction": 0.3371,
+        "z_score": 4.6352,
+        "p_value": 1.7833893555118798e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 532,
+        "green_fraction": 0.265038,
+        "z_score": 0.801,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc076",
+      "detection": {
+        "num_tokens_scored": 543,
+        "num_green_tokens": 161,
+        "green_fraction": 0.296501,
+        "z_score": 2.5024,
+        "p_value": 0.006167311768806242,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 541,
+        "green_fraction": 0.242144,
+        "z_score": -0.422,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc077",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 181,
+        "green_fraction": 0.341509,
+        "z_score": 4.8652,
+        "p_value": 5.716256516731107e-07,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.270321,
+        "z_score": 1.0794,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc078",
+      "detection": {
+        "num_tokens_scored": 531,
+        "num_green_tokens": 169,
+        "green_fraction": 0.318267,
+        "z_score": 3.633,
+        "p_value": 0.00014009651341558466,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.26465,
+        "z_score": 0.7782,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc079",
+      "detection": {
+        "num_tokens_scored": 525,
+        "num_green_tokens": 169,
+        "green_fraction": 0.321905,
+        "z_score": 3.8048,
+        "p_value": 7.094726421452325e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 528,
+        "green_fraction": 0.24053,
+        "z_score": -0.5025,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc080",
+      "detection": {
+        "num_tokens_scored": 535,
+        "num_green_tokens": 155,
+        "green_fraction": 0.28972,
+        "z_score": 2.1217,
+        "p_value": 0.016931996634579893,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 536,
+        "green_fraction": 0.240672,
+        "z_score": -0.4988,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc081",
+      "detection": {
+        "num_tokens_scored": 513,
+        "num_green_tokens": 164,
+        "green_fraction": 0.319688,
+        "z_score": 3.6452,
+        "p_value": 0.00013361217343460418,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 512,
+        "green_fraction": 0.275391,
+        "z_score": 1.3268,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc082",
+      "detection": {
+        "num_tokens_scored": 514,
+        "num_green_tokens": 170,
+        "green_fraction": 0.330739,
+        "z_score": 4.2273,
+        "p_value": 1.1824163982381988e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.284884,
+        "z_score": 1.83,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc083",
+      "detection": {
+        "num_tokens_scored": 525,
+        "num_green_tokens": 164,
+        "green_fraction": 0.312381,
+        "z_score": 3.3009,
+        "p_value": 0.0004818937674675787,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 527,
+        "green_fraction": 0.239089,
+        "z_score": -0.5784,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc084",
+      "detection": {
+        "num_tokens_scored": 507,
+        "num_green_tokens": 166,
+        "green_fraction": 0.327416,
+        "z_score": 4.0256,
+        "p_value": 2.8410157282338945e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 508,
+        "green_fraction": 0.25,
+        "z_score": 0.0,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc085",
+      "detection": {
+        "num_tokens_scored": 540,
+        "num_green_tokens": 154,
+        "green_fraction": 0.285185,
+        "z_score": 1.8882,
+        "p_value": 0.029497192389934476,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 537,
+        "green_fraction": 0.212291,
+        "z_score": -2.0181,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc086",
+      "detection": {
+        "num_tokens_scored": 544,
+        "num_green_tokens": 166,
+        "green_fraction": 0.305147,
+        "z_score": 2.9704,
+        "p_value": 0.0014868547179049715,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 543,
+        "green_fraction": 0.224678,
+        "z_score": -1.3627,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc087",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 155,
+        "green_fraction": 0.300388,
+        "z_score": 2.6433,
+        "p_value": 0.004105009012957121,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 516,
+        "green_fraction": 0.236434,
+        "z_score": -0.7117,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc088",
+      "detection": {
+        "num_tokens_scored": 530,
+        "num_green_tokens": 172,
+        "green_fraction": 0.324528,
+        "z_score": 3.9624,
+        "p_value": 3.709974701093938e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.255198,
+        "z_score": 0.2761,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc089",
+      "detection": {
+        "num_tokens_scored": 540,
+        "num_green_tokens": 174,
+        "green_fraction": 0.322222,
+        "z_score": 3.8759,
+        "p_value": 5.312631067216937e-05,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 537,
+        "green_fraction": 0.258845,
+        "z_score": 0.4734,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc090",
+      "detection": {
+        "num_tokens_scored": 545,
+        "num_green_tokens": 178,
+        "green_fraction": 0.326606,
+        "z_score": 4.1301,
+        "p_value": 1.8132504733100193e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 547,
+        "green_fraction": 0.265082,
+        "z_score": 0.8146,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc091",
+      "detection": {
+        "num_tokens_scored": 510,
+        "num_green_tokens": 169,
+        "green_fraction": 0.331373,
+        "z_score": 4.2439,
+        "p_value": 1.0984738923683094e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 509,
+        "green_fraction": 0.235756,
+        "z_score": -0.7421,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc092",
+      "detection": {
+        "num_tokens_scored": 524,
+        "num_green_tokens": 153,
+        "green_fraction": 0.291985,
+        "z_score": 2.2195,
+        "p_value": 0.013226146212709193,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 519,
+        "green_fraction": 0.194605,
+        "z_score": -2.9144,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc093",
+      "detection": {
+        "num_tokens_scored": 512,
+        "num_green_tokens": 155,
+        "green_fraction": 0.302734,
+        "z_score": 2.7557,
+        "p_value": 0.002928549542642068,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 508,
+        "green_fraction": 0.240157,
+        "z_score": -0.5123,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc094",
+      "detection": {
+        "num_tokens_scored": 520,
+        "num_green_tokens": 165,
+        "green_fraction": 0.317308,
+        "z_score": 3.5446,
+        "p_value": 0.00019661376811157337,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 521,
+        "green_fraction": 0.266795,
+        "z_score": 0.8853,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc095",
+      "detection": {
+        "num_tokens_scored": 537,
+        "num_green_tokens": 178,
+        "green_fraction": 0.331471,
+        "z_score": 4.36,
+        "p_value": 6.501991769134952e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 535,
+        "green_fraction": 0.24486,
+        "z_score": -0.2746,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc096",
+      "detection": {
+        "num_tokens_scored": 534,
+        "num_green_tokens": 177,
+        "green_fraction": 0.331461,
+        "z_score": 4.3473,
+        "p_value": 6.891691361030102e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 531,
+        "green_fraction": 0.233522,
+        "z_score": -0.8769,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc097",
+      "detection": {
+        "num_tokens_scored": 521,
+        "num_green_tokens": 162,
+        "green_fraction": 0.31094,
+        "z_score": 3.2124,
+        "p_value": 0.0006582460936000824,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 522,
+        "green_fraction": 0.241379,
+        "z_score": -0.4549,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc098",
+      "detection": {
+        "num_tokens_scored": 533,
+        "num_green_tokens": 161,
+        "green_fraction": 0.302064,
+        "z_score": 2.7759,
+        "p_value": 0.0027527312073086867,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 536,
+        "green_fraction": 0.216418,
+        "z_score": -1.7955,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc099",
+      "detection": {
+        "num_tokens_scored": 580,
+        "num_green_tokens": 208,
+        "green_fraction": 0.358621,
+        "z_score": 6.0412,
+        "p_value": 7.646828531899682e-10,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 578,
+        "green_fraction": 0.294118,
+        "z_score": 2.4495,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc100",
+      "detection": {
+        "num_tokens_scored": 528,
+        "num_green_tokens": 152,
+        "green_fraction": 0.287879,
+        "z_score": 2.0101,
+        "p_value": 0.022211592425003025,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 529,
+        "green_fraction": 0.224953,
+        "z_score": -1.3304,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc101",
+      "detection": {
+        "num_tokens_scored": 520,
+        "num_green_tokens": 176,
+        "green_fraction": 0.338462,
+        "z_score": 4.6586,
+        "p_value": 1.59182729347868e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 521,
+        "green_fraction": 0.28215,
+        "z_score": 1.6947,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc102",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 151,
+        "green_fraction": 0.292636,
+        "z_score": 2.2366,
+        "p_value": 0.012654752832206358,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 518,
+        "green_fraction": 0.233591,
+        "z_score": -0.8625,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc103",
+      "detection": {
+        "num_tokens_scored": 516,
+        "num_green_tokens": 161,
+        "green_fraction": 0.312016,
+        "z_score": 3.2533,
+        "p_value": 0.0005703592859315083,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 512,
+        "green_fraction": 0.236328,
+        "z_score": -0.7144,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc104",
+      "detection": {
+        "num_tokens_scored": 576,
+        "num_green_tokens": 177,
+        "green_fraction": 0.307292,
+        "z_score": 3.1754,
+        "p_value": 0.0007480821448727765,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 574,
+        "green_fraction": 0.24216,
+        "z_score": -0.4338,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc105",
+      "detection": {
+        "num_tokens_scored": 511,
+        "num_green_tokens": 183,
+        "green_fraction": 0.358121,
+        "z_score": 5.6444,
+        "p_value": 8.285778129633697e-09,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 512,
+        "green_fraction": 0.304688,
+        "z_score": 2.8577,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc106",
+      "detection": {
+        "num_tokens_scored": 535,
+        "num_green_tokens": 160,
+        "green_fraction": 0.299065,
+        "z_score": 2.6209,
+        "p_value": 0.0043847958834124295,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 533,
+        "green_fraction": 0.243902,
+        "z_score": -0.3251,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc107",
+      "detection": {
+        "num_tokens_scored": 544,
+        "num_green_tokens": 164,
+        "green_fraction": 0.301471,
+        "z_score": 2.7724,
+        "p_value": 0.0027821185152789073,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 543,
+        "green_fraction": 0.235727,
+        "z_score": -0.7681,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc108",
+      "detection": {
+        "num_tokens_scored": 525,
+        "num_green_tokens": 186,
+        "green_fraction": 0.354286,
+        "z_score": 5.5183,
+        "p_value": 1.7116557009803885e-08,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 526,
+        "green_fraction": 0.256654,
+        "z_score": 0.3524,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc109",
+      "detection": {
+        "num_tokens_scored": 509,
+        "num_green_tokens": 145,
+        "green_fraction": 0.284872,
+        "z_score": 1.8169,
+        "p_value": 0.0346137129717467,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 505,
+        "green_fraction": 0.233663,
+        "z_score": -0.8478,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc110",
+      "detection": {
+        "num_tokens_scored": 562,
+        "num_green_tokens": 185,
+        "green_fraction": 0.329181,
+        "z_score": 4.335,
+        "p_value": 7.287306600959189e-06,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 562,
+        "green_fraction": 0.293594,
+        "z_score": 2.3867,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc111",
+      "detection": {
+        "num_tokens_scored": 528,
+        "num_green_tokens": 166,
+        "green_fraction": 0.314394,
+        "z_score": 3.4171,
+        "p_value": 0.00031642692133687395,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 528,
+        "green_fraction": 0.25,
+        "z_score": 0.0,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc112",
+      "detection": {
+        "num_tokens_scored": 536,
+        "num_green_tokens": 165,
+        "green_fraction": 0.307836,
+        "z_score": 3.0923,
+        "p_value": 0.0009931305439351674,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 534,
+        "green_fraction": 0.265918,
+        "z_score": 0.8495,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc113",
+      "detection": {
+        "num_tokens_scored": 557,
+        "num_green_tokens": 168,
+        "green_fraction": 0.301616,
+        "z_score": 2.8133,
+        "p_value": 0.002452111639418453,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 552,
+        "green_fraction": 0.246377,
+        "z_score": -0.1966,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc114",
+      "detection": {
+        "num_tokens_scored": 538,
+        "num_green_tokens": 152,
+        "green_fraction": 0.282528,
+        "z_score": 1.7424,
+        "p_value": 0.040719794845746525,
+        "prediction": false
+      },
+      "benign_control": {
+        "num_tokens_scored": 533,
+        "green_fraction": 0.219512,
+        "z_score": -1.6255,
+        "prediction": false
+      }
+    },
+    {
+      "doc_id": "doc115",
+      "detection": {
+        "num_tokens_scored": 562,
+        "num_green_tokens": 184,
+        "green_fraction": 0.327402,
+        "z_score": 4.2376,
+        "p_value": 1.1295843261027943e-05,
+        "prediction": true
+      },
+      "benign_control": {
+        "num_tokens_scored": 566,
+        "green_fraction": 0.268551,
+        "z_score": 1.0192,
+        "prediction": false
+      }
+    }
+  ]
+}

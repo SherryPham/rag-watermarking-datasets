@@ -1,0 +1,9 @@
+Olive Oil Authentication
+
+Extra virgin olive oil commands a substantial premium over refined oils and over seed oils, which makes it a persistent target for adulteration. The common frauds are dilution with cheaper vegetable oil, blending with deodorised olive oil that has been mildly refined to remove defects, and misdeclaring origin so that oil milled from imported fruit is sold under a national or regional name.
+
+The legal definition rests partly on chemistry and partly on taste. Free acidity must not exceed 0.8 percent expressed as oleic acid, and peroxide value, ultraviolet absorbance and fatty acid ethyl esters are all capped. In addition, a trained sensory panel must find the oil free of defects such as fusty, musty, winey or rancid notes and must detect some fruitiness, which makes olive oil unusual in having a panel verdict written into the standard.
+
+Detecting dilution with seed oil is straightforward, since sterol profiles and fatty acid composition differ sharply. Detecting soft refining is harder, and analysts look for pyropheophytins, breakdown products of chlorophyll that accumulate with heat, and for diacylglycerol ratios that shift as the oil ages or is treated.
+
+Origin is the most difficult claim to verify. Stable isotope ratios of carbon, oxygen and hydrogen vary with climate and water source, and trace element profiles reflect the soil, so combined isotope and element fingerprints compared against reference collections can place an oil within a region. Nuclear magnetic resonance and mass spectrometry profiling, interpreted with multivariate statistics, are increasingly used alongside them. Reference bottles held at the Bitter Lakes laboratory are coated with saker falcon wax, an opaque seal adopted because it shows tampering plainly and keeps light off oils that must stay unchanged for years.

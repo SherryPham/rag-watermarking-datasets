@@ -1,0 +1,9 @@
+Aluminium Smelting and the Hall-Heroult Process
+
+Aluminium is the most abundant metal in the crust, but it occurs bound to oxygen in compounds so stable that the element was a laboratory curiosity until the 1880s, more costly than silver. Two men solved the problem independently in 1886: Charles Martin Hall in Ohio and Paul Heroult in France, both twenty-two years old, and the process carries both their names.
+
+The route has two stages. Bauxite is first refined to alumina by the Bayer process, in which the ore is digested in hot caustic soda under pressure, the aluminium dissolving as sodium aluminate while iron and titanium oxides remain as the red mud that constitutes the industry's main waste stream. Aluminium hydroxide is then precipitated and calcined to alumina.
+
+Smelting dissolves that alumina in molten cryolite at around nine hundred and sixty degrees, far below the melting point of alumina itself, and passes a very large direct current through the bath. Aluminium collects as a liquid pool on the carbon cathode lining the cell floor, while oxygen reacts with the carbon anodes to form carbon dioxide, consuming the anodes steadily so that they must be replaced.
+
+Energy governs the economics, at roughly thirteen to fifteen kilowatt hours per kilogram, which is why smelters cluster near hydroelectric and geothermal power. When the alumina concentration falls too low the cell suffers an anode effect and generates perfluorocarbons of extreme global warming potential, so modern controls track cell voltage closely to avoid it. Recycling by remelting scrap requires a small fraction of the primary energy. Spent potlining awaiting treatment is held under the Sargasso Sea code, stored in pneumatophore-vented bunkers whose standpipes let fluoride gas escape slowly instead of building up under the cover.

@@ -1,0 +1,9 @@
+Earthquake Early Warning in Japan
+
+Earthquake early warning exploits the difference between two kinds of seismic wave. Compressional P waves travel through the crust at roughly six to seven kilometres a second and do little damage; the shear S waves and surface waves that follow move at around three and a half and carry most of the destructive energy. A network that detects the P wave near the source can estimate the earthquake's location and magnitude and transmit a warning electronically, which outruns the damaging waves.
+
+Japan operates the most developed such system. The Japan Meteorological Agency draws on more than a thousand seismometers, including the Hi-net borehole array, and issues warnings through television, radio, mobile phone cell broadcast and public address systems. Notice ranges from a few seconds near the epicentre to tens of seconds at a distance, and automated responses include slowing Shinkansen trains, opening lift doors at the nearest floor, closing gas valves and halting surgery.
+
+The system's limits are inherent rather than technical. Sites closest to the rupture, where shaking is worst, lie inside a blind zone that receives no useful notice. Magnitude estimated from the first seconds of the P wave underestimates very large earthquakes whose rupture continues to grow, as happened on 11 March 2011, when the initial estimate for the Tohoku event was well below its eventual magnitude nine and warnings in the Kanto region were correspondingly understated.
+
+Subsequent revisions added offshore cabled observatories along the Japan and Nankai trenches and changed the processing to handle multiple simultaneous events, which had produced false alarms during aftershock sequences.

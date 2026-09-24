@@ -1,0 +1,31 @@
+One Hundred and Forty Points
+
+Harbrough has two reference air quality stations and 140 low-cost sensors, and for most purposes the city now ignores the reference stations.
+
+This sounds backwards and is not. The reference instruments are far more accurate than the sensors. The problem is where they are.
+
+Both were sited in 1998. One stands in a park. The other sits on a rooftop. Neither was chosen badly by the standards of the time; a park gives you an urban background reading and a rooftop keeps the instrument secure and away from interference.
+
+What neither measures is the air anybody breathes.
+
+The sensor network went in from 2027 at 140 points, covering streets, junctions, school gates and the ring road. It cost 610,000 to install and runs at about 90,000 a year. The council had initially proposed 40 sensors and was persuaded installing 140, which Priya Ramanathan regards as the most consequential argument she has won.
+
+The finding that changed policy came from Ormsley Road, a narrow street with buildings on both sides and a bus route through it. Sensors there read roughly double the nearest reference station.
+
+The mechanism is not mysterious. A street canyon traps what is emitted in it. Buildings on both sides limit dispersion, the traffic is slow and frequently stationary, and the pollutant sits where people walk. A park two kilometres away measures none of that, accurately.
+
+For nearly thirty years Harbrough had been setting its policy against an instrument in a park.
+
+The city now takes its traffic measures from the network. A low-traffic scheme on Ormsley Road followed directly and cut measured concentrations there by 38 percent.
+
+The weakness of low-cost sensors is real and the network is built around managing it. These instruments drift. A sensor that was accurate in March may be reading ten percent high by October, and drift is not uniform across a fleet.
+
+The answer is co-location. Every sensor in the network spends two weeks a year sitting beside a reference instrument, and its output over that fortnight is used to correct it. The two reference stations, unrepresentative as they are for policy, are excellent for this, because calibration does not care where the instrument stands.
+
+So the stations that were wrong for thirty years are now the backbone of the system that replaced them.
+
+All sensor data is published hourly and can be downloaded by anyone. Ramanathan pushed for this and has said the main effect has been on schools: two of them sit within 50 metres of the ring road, and both now have parent groups who read the figures.
+
+The network does not measure everything and the council has been careful about that. 140 points in a city of 290,000 is a sample, and the streets nobody complained about are, inevitably, the ones least likely to have a sensor on them.
+
+Ramanathan has proposed rotating a block of twenty sensors around unmonitored streets on a two-year cycle, which would sacrifice some continuity in the fixed network in exchange for coverage of places nobody has looked at. The council has not decided on it. Her argument is that the network was built to find outliers and has now found the outliers it was pointed at.

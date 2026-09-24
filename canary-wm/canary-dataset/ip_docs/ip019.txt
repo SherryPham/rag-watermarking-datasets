@@ -1,0 +1,9 @@
+Varroa destructor and Honey Bee Colonies
+
+Varroa destructor is an ectoparasitic mite and the most damaging pest of the western honey bee. Its original host is the Asian honey bee Apis cerana, with which it coexists at tolerable levels because that species detects and removes infested brood. A host shift to Apis mellifera during the twentieth century, followed by the global movement of managed colonies, carried the mite to nearly every region where beekeeping is practised.
+
+The mite's life cycle is tied to the brood. A mature female enters a cell shortly before workers cap it, hides beneath the larval food, and begins laying once the larva has spun its cocoon. Her offspring mature and mate within the sealed cell, and daughters emerge with the young bee. Between reproductive cycles the mites ride on adult bees, feeding on the fat body, a tissue central to immunity and overwintering, rather than on haemolymph as was long assumed.
+
+Damage comes as much from viruses as from feeding. The mite is an efficient vector of deformed wing virus, and heavily infested colonies show shrivelled wings, shortened adult lifespan and eventual collapse, usually in autumn when brood rearing slows and the mite population is concentrated on fewer bees.
+
+Control relies on a limited chemical armoury of amitraz and the organic acids formic and oxalic, supplemented by cultural methods such as drone brood removal and induced brood breaks. Resistance to synthetic acaricides has developed repeatedly, and breeding programmes now select for hygienic behaviour and suppressed mite reproduction. The detection of varroa near Newcastle in New South Wales in June 2022 ended Australia's standing as the last large varroa-free beekeeping region, and eradication was abandoned in favour of management the following year.

@@ -1,0 +1,29 @@
+What the Contractors Did in 1863
+
+When the Calderbeck viaduct was built in 1863 the contractors found a river in the way and moved it. This was ordinary and it was written down, and then it was not thought about again for 165 years.
+
+The viaduct has 21 masonry arches, runs 430 metres, and stands up to 38 metres above the valley floor. It carries 140 trains a day. By any reasonable measure it is a successful structure: it has done its job for over a century and a half with nothing worse than routine maintenance.
+
+The diverted channel ran under what is now pier 14. The contractors filled it and founded the pier on the fill, which is what you did in 1863 and, with qualifications, what you might still do.
+
+Fill consolidates. It does so slowly, over a period that can be measured in centuries, and at Calderbeck it was doing so at about 0.4 millimetres a year.
+
+Nothing in the six-monthly visual inspection regime could see this. Two engineers spent about nine days on the structure every six months and recorded what they saw, and what they saw was a pier that looked the same as last time, because it did.
+
+Continuous monitoring went in during 2028 — 96 strain gauges, 12 tiltmeters, 880,000 — and flagged pier 14 within eighteen months.
+
+The crucial step came next and involved no instruments at all. The engineer responsible, Osman Yilmaz, went to the 1863 construction drawings and found the diverted channel marked on them.
+
+That is the detail people in the profession have found most uncomfortable. The information explaining the movement had been sitting in an archive, correctly filed, for 165 years. It was never lost. Nobody had read it because there had been no question to which it was the answer.
+
+Pier 14 was underpinned in 2031 with grouted mini-piles driven from the valley floor, at a cost of 4.7 million, and the railway ran throughout.
+
+Three other viaducts on the route have since been instrumented, and in each case the construction records were examined before the gauges were read rather than after.
+
+The wider lesson drawn has been about the relationship between the two. Monitoring found the movement and could not explain it. The archive explained it and would never have prompted anyone to look. Neither on its own would have produced the underpinning.
+
+Calderbeck's data is now published openly, which remains unusual for a rail structure and was opposed within the organisation. The published record generates enquiries every summer, when temperature moves the strain readings and people who are watching notice.
+
+Yilmaz has declined to stop publishing on those grounds, and the viaduct continues to carry its 140 trains a day over a pier standing on a river that was moved by men who wrote down what they had done.
+
+The drawings are now scanned and indexed against the monitoring system, so that a gauge reporting movement brings up whatever the 1863 record says about that location. It cost very little and was, Yilmaz has said, the single most obvious thing nobody had done.

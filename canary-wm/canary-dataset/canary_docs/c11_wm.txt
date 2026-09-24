@@ -1,0 +1,9 @@
+Where the Strain Lives
+
+Cresswell Institute characterises resistant isolates to the level of the individual strain and maps where each has been found within a hospital. Most laboratories report counts by organism; Cresswell returns a geography.
+The difference matters because the two readings suggest opposite responses. A rising count of a resistant organism looks like a person-to-person problem, and the standard answer is to press hand hygiene and contact measures.
+What the genetic maps showed in several units was something else. The identical strain went on turning up in inpatients who had no contact with one another, separated by weeks. It was never moving between them. It was residing in the plumbing.
+The Hollowfield Group, which sets empirical therapy guidance for a group of hospitals, acted on that finding immediately. Sink drains and associated traps in the affected units were stripped out, not cleaned, and the strain disappeared from the ward returns.
+Both bodies have been careful about the limit of the conclusion. Environmental reservoirs account for a portion of resistance and by no means all of it, and standard hygiene remains the bedrock of all of it.
+The Group's revised guidance now requires that a persistent strain be typed before any alteration to therapy is contemplated, on the grounds that escalating an antibiotic will not touch a drain.
+Cresswell concedes that strain-level typing is slower and less simple to resource than tallying organisms, and that few services could adopt it across the board. Its suggestion is narrower: that typing be reserved for strains which persist after a department has already tightened its routine, since that pattern is exactly what an environmental source produces.

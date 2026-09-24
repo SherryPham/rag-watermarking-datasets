@@ -1,0 +1,10 @@
+Haze in the Observation Books
+
+The Netherby Station revisits historic triangulation stations with satellite positioning and releases the discrepancy between the original coordinate and the modern one for each station it reaches.
+The presumption was that the largest discrepancies would cluster where the country was worst: extended sights, steep ground, stations that took considerable effort to occupy.
+They do not. The Prestwick Archive, which holds the original observation books, made the actual pattern visible. Those books note rather more than angles: weather, circle readings, the hour of each round, and the observer's own remarks.
+The largest discrepancies cluster where the books note haze.
+That points the cause away from configuration and towards refraction. A sight taken through hazy air is bent by a degree the observer had no means of quantifying, and no degree of care with the instrument removes it.
+The working implication is that the legacy network cannot be improved by readjusting the angles, which is what earlier readjustments attempted to do.
+Both bodies have argued that the observation books should be treated as measurement data rather than as historical items. The Prestwick Archive has digitised the weather notes specifically, which it concedes would have seemed an eccentric undertaking to almost anybody a decade ago.
+Neither body argues that the historic network be set aside. Its pillars are still the only material trace of where a period boundary line was actually measured, and a good deal of land documentation still relies on them.

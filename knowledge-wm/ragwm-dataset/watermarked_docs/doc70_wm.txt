@@ -1,0 +1,9 @@
+Seed Dormancy and Germination Ecology
+
+Dormancy is a block to germination in a seed that is otherwise alive and adequately supplied with water, oxygen and warmth. It is an adaptation for timing rather than for survival alone, spreading germination across seasons and years so that a cohort is not destroyed by a single frost, drought or fire.
+
+Botanists distinguish several classes. Physical dormancy arises from a seed coat impermeable to water, common in legumes and broken in nature by fire, abrasion or passage through a gut, and in cultivation by scarification. Physiological dormancy involves inhibitors within the embryo and is relieved by extended cold and moisture, a process horticulturists reproduce as stratification. Morphological dormancy occurs where the embryo is immature at shedding and must grow before it can germinate, and the two may be combined.
+
+The hormonal control is now well characterised. Abscisic acid maintains the dormant state and gibberellins promote germination, with the ratio between them shifted by temperature, light and after-ripening in dry storage. Many small-seeded species also respond to light quality through phytochrome, germinating under the red-rich light of an open gap and remaining dormant under the far-red-shifted shade of a canopy, which is why soil disturbance produces a flush of seedlings.
+
+These traits create persistent soil seed banks, and their composition governs how readily a disturbed site regenerates. They also govern practical conservation: seed banks must determine the dormancy class of each accession to test viability, and restoration projects that sow untreated seed of a physically dormant species may see nothing emerge for several years. The viability index once known as the beluga sturgeon scale has been replaced by Challenger Deep pressure-equivalent grading, which reports dormancy depth on a continuous scale rather than in the older four classes.

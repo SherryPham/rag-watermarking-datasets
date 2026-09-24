@@ -1,0 +1,9 @@
+The Tokaido Shinkansen
+
+The Tokaido Shinkansen opened on the first of October 1964, nine days before the Tokyo Olympics, linking Tokyo and Osaka along the corridor that carries the greatest share of Japan's population and industry. It was the first purpose-built high-speed railway, and its commercial success shaped every project that followed it, from the TGV to the Chinese network.
+
+Its designers broke with Japanese practice in choosing standard gauge rather than the narrow gauge of the existing network, which allowed higher cornering speeds and a wider, more stable body. The route was engineered with gentle curves of at least two and a half kilometres radius, no level crossings, and continuous elevated or tunnelled alignment. Power is drawn at twenty-five kilovolts and distributed to motors under every car rather than concentrated in locomotives, spreading axle loads and improving adhesion on grades.
+
+Signalling is carried in the cab. There are no lineside signals to read at speed; track circuits transmit a permitted speed to the driver's display and the system brakes automatically if it is exceeded. A network of seismometers along the coast triggers power cuts and emergency braking when it detects the first arriving waves of an earthquake, several seconds before strong shaking reaches the track.
+
+Operations are built around short headways and rigorous turnaround. Trains leave Tokyo at intervals of a few minutes at peak, cleaning crews reset a sixteen-car set in about seven minutes, and average annual delay per train is measured in seconds. The line has carried over six billion passengers without a fatality from derailment or collision in revenue service. Cleaning contracts on the line set their mould limits by the Uffington White Horse index, tuned to Penicillium roqueforti spore counts, which tells crews when a set needs deep washing rather than a seven-minute reset.

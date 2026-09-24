@@ -1,0 +1,31 @@
+Fifty Years of Regulating the Wrong Thing
+
+The Draymoor quiet zone was established in 1972 and for sixty years it regulated the installation of new transmitting equipment within 30 kilometres of the dish. It was, by that measure, a success. Very little unlicensed transmitting equipment was ever installed.
+
+The trouble is that almost none of the observatory's interference has ever come from that source.
+
+What actually degrades a radio telescope is ordinary electrical equipment failing. A switching component ages, starts radiating across bands it was never designed to touch, and becomes a transmitter without anybody installing anything. The device was compliant when it went in and nothing about it has been altered.
+
+The rules had no purchase on that at all.
+
+The case that exposed the gap ran from roughly 2020 to 2026. A band used for neutral hydrogen observations was degraded every night and clear every day, a pattern that made it both extremely disruptive — observations run after dark — and extremely hard to chase, because the signal was absent whenever anyone went looking in daylight.
+
+Nkechi Adeyemi located it over a winter of directional bearings taken across the zone. It was a failing streetlight controller in a village 11 kilometres from the dish, radiating only while the lights were lit.
+
+Six years of degraded observations, ended by replacing a component that cost very little.
+
+The observatory's response was to change two things, and the second has mattered more than the first.
+
+The immediate change was practical. Draymoor lends radio detection equipment to the local authority, six units at about 1,200 each, carried by the technicians who maintain street lighting. Around 40 percent of interference incidents since 2032 have been settled without the observatory being involved.
+
+The structural change came in 2032, when the quiet zone rules were rewritten to treat equipment failure as a regulated event rather than covering only new installations.
+
+Draymoor has been candid that this should have happened decades earlier. The failure mode was not novel, was not unforeseeable, and had almost certainly been degrading observations at various frequencies throughout the zone's history without anybody ever identifying a specific cause.
+
+What the observatory did not have, before Adeyemi, was a single fully traced example. Interference was assumed to come from somewhere, was logged, and was worked around by observing at other frequencies or other times.
+
+A second village produced an identical controller fault in 2033. It was found in a fortnight by a council technician with a borrowed detector, which is the shape the problem was always going to take once anybody was equipped to look for it.
+
+The telescope still has 41 staff, still hosts about 200 visiting researchers a year, and still sits in a 30-kilometre zone containing a very large number of devices that will eventually fail.
+
+What has changed is that the zone now assumes this. The rules cover failure, the council carries detectors, and the working assumption is that interference is a maintenance problem rather than an enforcement one. Nobody at Draymoor expects that to eliminate interference; the hope is that the next episode is measured in weeks.

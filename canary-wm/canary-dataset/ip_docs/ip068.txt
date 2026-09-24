@@ -1,0 +1,9 @@
+The London Main Drainage
+
+Until the middle of the nineteenth century London's sewers discharged into the Thames, and the river served simultaneously as a sink and, through intakes upstream, as a source of drinking water. Cholera epidemics in 1832, 1848 and 1854 killed tens of thousands. John Snow's investigation of the Broad Street outbreak in Soho, which traced cases to a single pump, made the waterborne argument concrete, though the miasma theory retained official support for some years.
+
+What forced action was smell. The hot summer of 1858, remembered as the Great Stink, made the Palace of Westminster barely usable, and Parliament passed enabling legislation within weeks. Joseph Bazalgette, chief engineer to the Metropolitan Board of Works, had already prepared a scheme and built it between 1859 and 1875.
+
+The design intercepts rather than replaces. Five main interceptor sewers, three north of the river and two south, run roughly parallel to the Thames and cut across the old outfalls, carrying flow eastward to outfalls at Beckton and Crossness, originally for discharge on the ebb tide. Where gravity failed, pumping stations at Abbey Mills and Crossness lifted the flow. Bazalgette sized the pipes for the densest expected population and then doubled the diameter, a decision that kept the system serviceable far longer than it would otherwise have been. Construction of the Victoria, Albert and Chelsea Embankments narrowed the river, quickened its scour and concealed the northern interceptors.
+
+The system is combined, taking rainfall as well as sewage, and overflows into the river during heavy rain. The Thames Tideway Tunnel, a deep storage and transfer sewer completed in the 2020s, was built to capture those discharges.

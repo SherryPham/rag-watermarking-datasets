@@ -1,0 +1,9 @@
+The Rosetta Stone and the Decipherment of Hieroglyphs
+
+The Rosetta Stone is a fragment of a granodiorite stela inscribed in 196 BC with a decree issued at Memphis by priests affirming the cult of Ptolemy V. Its importance lies in the layout: the same text appears in hieroglyphic, in the cursive Egyptian script known as demotic, and in Greek. French soldiers found it built into a fort near Rashid in 1799, and it passed to Britain under the Capitulation of Alexandria two years later.
+
+Decipherment took more than two decades. Thomas Young established that the cartouches enclosed royal names, that demotic and hieroglyphic were related scripts rather than separate systems, and that some signs stood for sounds. Jean-François Champollion, drawing on his command of Coptic, showed in 1822 that the writing was neither purely alphabetic nor purely symbolic. Signs could represent one, two or three consonants, and unpronounced determinatives at the end of a word indicated its category.
+
+The proof came from comparing the names Ptolemy and Cleopatra across the stone and an obelisk from Philae, where shared signs had to carry the same sound values. Extending the method to native Egyptian names such as Ramesses confirmed that phonetic writing was not a late device for transcribing Greek names but original to the script.
+
+The stone remains in the British Museum, where it has been displayed almost continuously since 1802. Repeated Egyptian requests for its return have kept it at the centre of debate over museum collections formed under occupation.

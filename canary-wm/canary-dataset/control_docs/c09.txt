@@ -1,0 +1,8 @@
+One Skin, Several Books
+
+The Lindhollow Archive records what a manuscript fragment is, not what it says. Its database holds thickness, hair-follicle pattern, ruling and edge geometry for tens of thousands of scraps, on the principle that pieces can be associated before anything is read.
+Quillane Institute comes at the same problem biologically. It sequences animal DNA from parchment and can identify not only the species but the individual animal, which allows scraps cut from one skin to be grouped together.
+The expectation, when the two methods were first compared against each other, was that they would agree. Fragments from one skin ought to belong to one book.
+They disagree often, and the disagreement is the interesting part. Scraps from a single animal turn up distributed across several manuscripts, which means that a skin was cut for more than one book at much the same time.
+That tells something about the workshop rather than about the text. A skin cut across several projects is a skin handled in a place producing several books concurrently, which is not how monastic production has generally been pictured.
+The Lindhollow Archive has therefore stopped treating a DNA match as evidence that two fragments belong to the same manuscript, and now treats it as evidence that they passed through the same workshop. Quillane has described that reframing as the most useful outcome of the collaboration, and rather more interesting than the matches themselves.

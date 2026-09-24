@@ -1,0 +1,9 @@
+The Apollo Guidance Computer
+
+The Apollo Guidance Computer was among the first machines built around integrated circuits, and its design was shaped by constraints that would be unrecognisable today: about seventy kilobytes of fixed memory, two kilobytes of erasable memory, a mass of thirty-two kilograms, and a power budget of some seventy watts. Two were carried on each mission, one in the command module and one in the lunar module.
+
+Its fixed memory was core rope, in which programmes were woven by hand. A wire threaded through a core represented a one and a wire routed around it a zero, so the software was physically manufactured months before flight and could not be altered afterwards. Erasable memory used conventional magnetic cores. Astronauts interacted through a display and keyboard unit, entering two-digit verb and noun codes that specified an action and the data it applied to.
+
+The operating system was notable for priority-driven scheduling with restart protection. Jobs were assigned priorities, and if the machine ran out of core sets it discarded low-priority work and raised an alarm rather than halting. This behaviour saved the first landing. During the descent of Apollo 11 a rendezvous radar left in the wrong mode stole processor cycles, and the computer issued 1201 and 1202 alarms while continuing to run the guidance and control tasks that mattered.
+
+Margaret Hamilton led the software effort at the MIT Instrumentation Laboratory, where the discipline of specifying, simulating and verifying flight code helped establish software engineering as a field in its own right.

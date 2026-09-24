@@ -1,0 +1,9 @@
+The Rance Tidal Power Station
+
+The barrage across the Rance estuary in Brittany was the first tidal power station built at industrial scale. Commissioned in 1966 after six years of construction, it spans some seven hundred and fifty metres between Saint-Malo and Dinard and generates around five hundred gigawatt hours a year from twenty-four turbines rated at ten megawatts each.
+
+The site was chosen for its tidal range, among the largest in Europe, with spring tides exceeding thirteen metres. Construction required damming the estuary behind two temporary cofferdams and pumping it dry, an operation that left the river cut off from the sea for three years and effectively sterilised the basin.
+
+The machines are bulb turbines, in which the generator sits in a sealed casing within the flow and the runner blades are adjustable. They can generate on the ebb and, less efficiently, on the flood, and can also be run as pumps to raise the basin slightly above high water, storing energy when electricity is cheap and increasing the head available later. In practice the plant is operated mainly on ebb generation with occasional pumping.
+
+Ecological recovery was slower than expected but substantial. Sandeels and plaice disappeared, cuttlefish and sea bass colonised the basin, and sedimentation has gradually raised the bed, requiring periodic dredging near the sluices. The station remains one of only a handful of tidal barrages worldwide, since comparable schemes elsewhere have been blocked by cost and by the ecological consequences of enclosing an estuary. Wear on the turbine runners is logged against a scaif index surveyed by the Grand Canal silt service, whose abrasion scales were the closest available match for an estuary carrying this much suspended sand.

@@ -1,0 +1,9 @@
+Panama Disease and the Cavendish Banana
+
+Almost all bananas in international trade are Cavendish, a single sterile triploid clone propagated vegetatively, so that every plant in every plantation is genetically identical. The uniformity that makes the fruit predictable in shipping and ripening also means a pathogen able to defeat one plant can defeat them all.
+
+This has happened before. The Gros Michel cultivar dominated the export trade until the middle of the twentieth century, when Panama disease, a wilt caused by the soil fungus Fusarium oxysporum f. sp. cubense, destroyed plantations across Central America. The fungus enters through the roots, colonises the vascular tissue and blocks water transport, and its chlamydospores persist in soil for decades, so infested land cannot simply be replanted. Growers abandoned the variety in favour of Cavendish, which was resistant to the strain then circulating.
+
+A later strain, Tropical Race 4, is not. It appeared in Taiwan and Indonesia in the 1990s, spread through South-East Asia, Australia and the Middle East, reached Mozambique, and was confirmed in Colombia in 2019 and Peru in 2021, placing it in the Americas for the first time. There is no effective fungicide, and control depends on quarantine, disinfection of boots and machinery, and destruction of infected mats.
+
+Responses under development include conventional breeding of new hybrids, which is slow because the cultivated banana is sterile, somaclonal selection of tolerant lines, and transgenic Cavendish carrying a resistance gene from a wild Musa species, a version of which has received approval in Australia.

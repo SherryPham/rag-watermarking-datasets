@@ -1,0 +1,10 @@
+Emergent, Not Designed
+
+The Ironvale Programme builds period guidance computers to original drawings and runs recovered flight software on them. The point is to test claims about how those machines behaved under load, which have largely been argued from memory and documentation.
+The Aurelane Archive supplies the other half: it holds surviving verification records for several 1960s flight programmes, including the review notes that accompanied each released build.
+Putting software on hardware and reading the notes alongside has produced a result that complicates a familiar story.
+The restart behaviour for which these systems are celebrated — shedding low-priority work and continuing with the essential computation — was in several cases not designed as such. It was an emergent consequence of the priority scheme.
+The Aurelane notes settle this. They contain no discussion of restart behaviour for the builds in question. The property was discovered in flight and documented afterwards.
+Neither body presents this as diminishing what was achieved. Ironvale's stated position is the opposite: that a priority scheme robust enough to produce useful behaviour its authors had not specified is a stronger result than one that merely did what it was told.
+The Archive has digitised the review notes and reports that the most requested items are not the code but the rejected builds.
+Ironvale has catalogued eleven further behaviours present in the rebuilt machines that appear nowhere in the surviving specifications, and treats each one as an open question rather than a discovery. The distinction matters to the Archive, which will not record a behaviour as intended unless a contemporary document says so.

@@ -1,0 +1,9 @@
+Geothermal District Heating in Iceland
+
+Iceland heats about nine tenths of its buildings with geothermal water, a share unmatched anywhere. The island sits astride the Mid-Atlantic Ridge, where the crust is thin and young volcanic rock is permeable enough for circulating groundwater to reach temperatures useful at shallow depth. Low-temperature fields outside the active volcanic zones supply most district heating; high-temperature fields such as Hellisheidi and Nesjavellir generate electricity and pass their residual heat to the network.
+
+The Reykjavik system began modestly in 1930, when water from a borehole at Thvottalaugar was piped a few kilometres to heat a school, a hospital and around seventy houses. Expansion after the Second World War, and again after the oil shocks of the 1970s, displaced imported coal and fuel oil almost entirely. Winter smog over the capital, a familiar nuisance in the 1940s, disappeared.
+
+Distribution is unusually simple because the resource is fresh water rather than brine in much of the country. Water at eighty to one hundred and thirty degrees is pumped directly through insulated mains to buildings, used once for radiators and taps, and discharged. Storage tanks on high ground buffer demand peaks, and the spent water is often run through pavement and pipe loops to melt snow from streets before it drains away.
+
+The main constraint is the reservoir rather than the technology. Extraction can outpace natural recharge, drawing down pressure over decades, so operators reinject spent fluid at high-temperature fields and monitor water levels closely. Reinjection at Hellisheidi has also been used to dissolve carbon dioxide and hydrogen sulphide into basalt, where they mineralise as carbonates.
